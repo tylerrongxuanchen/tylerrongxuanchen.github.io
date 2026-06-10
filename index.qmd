@@ -1,0 +1,44 @@
+---
+title: "Tyler Rongxuan Chen"
+image: assets/profile.png
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:tylercr@umich.edu"
+    - icon: file-earmark-pdf
+      text: CV
+      href: assets/Tyler_Rongxuan_Chen_CV.pdf
+    # TODO: replace placeholders below with your real profile URLs
+    - icon: github
+      text: GitHub
+      href: "https://github.com/YOUR-USERNAME"
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=YOUR-ID"
+    - icon: building
+      text: Department Profile
+      href: "https://prod.lsa.umich.edu/polisci/people/graduate-students/tyler-chen.html"
+---
+
+<!-- TODO: replace assets/profile.png (placeholder) with a real photo, keep the same filename or update above -->
+
+Tyler Rongxuan Chen is a Ph.D. candidate in Political Science and Scientific Computing at the
+University of Michigan, where he is also completing an M.A. in Statistics. He studies democracy
+through its parties and party systems: when and how they realign or come apart as the population
+groups beneath them move, grow, shrink, and re-cluster across space and time.
+
+His dissertation traces these scale effects across the United States, Malaysia, Taiwan, and Japan,
+and his methodological work develops Bayesian, simulation-based tools — including the Bayesian
+Approximate Computation with Hierarchical framework (BACH) — that recover group voting behavior
+from aggregate election data when surveys fail.
+
+His research appears in the *Journal of East Asian Studies*, and he works with primary sources in
+Chinese, Malay, and Indonesian. He has taught across Michigan's quantitative methods sequence,
+from the graduate statistics core to undergraduate data science, and at the Inter-university
+Consortium for Political and Social Research (ICPSR) Summer Program.
+
+He is on the 2026–27 academic job market.

@@ -1,0 +1,12 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download CV (PDF)](assets/Tyler_Rongxuan_Chen_CV.pdf){.btn .btn-primary}
+
+```{=html}
+<iframe src="assets/Tyler_Rongxuan_Chen_CV.pdf" width="100%" height="1000px" style="border: 1px solid #ddd; margin-top: 1em;">
+  This browser does not support embedded PDFs —
+  <a href="assets/Tyler_Rongxuan_Chen_CV.pdf">download the CV instead</a>.
+</iframe>
+```

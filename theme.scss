@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+// Michigan palette
+$blue-um: #00274C;
+$maize: #FFCB05;
+
+$primary: $blue-um;
+$link-color: #2F65A7;
+$navbar-bg: $blue-um;
+$navbar-fg: #ffffff;
+
+$font-family-sans-serif: "Source Sans 3", "Segoe UI", -apple-system, sans-serif;
+
+/*-- scss:rules --*/
+
+h1, h2, h3 {
+  font-weight: 600;
+  color: $blue-um;
+}
+
+.navbar .navbar-brand {
+  font-weight: 600;
+}
+
+// subtle maize accent under the active nav item
+.navbar .nav-link.active {
+  border-bottom: 3px solid $maize;
+}
+
+// paper entries on the research page
+.research strong {
+  color: $blue-um;
+}

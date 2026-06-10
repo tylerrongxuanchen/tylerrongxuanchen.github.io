@@ -1,0 +1,32 @@
+---
+title: "Teaching"
+---
+
+I am prepared to teach the quantitative methods sequence at every level — from introductory
+statistics through regression, causal inference, and Bayesian and computational methods — as well
+as courses on political parties, elections, democratization, and East and Southeast Asian
+politics.
+
+## Graduate Student Instructor, University of Michigan
+
+| Course | Instructor | Term |
+|---|---|---|
+| POLSCI 373 · Data Science for International Studies | Christopher Fariss | Winter 2026 |
+| POLSCI 599 · Statistical Methods in Political Research I (graduate core) | Licheng Liu | Fall 2025 |
+| POLSCI 300 · Quantitative Empirical Methods | Robert Franzese | Fall 2025 |
+| POLSCI 327 · Election Law | Jowei Chen | Winter 2025 |
+| POLSCI 140 · Introduction to Comparative Politics | Pauline Jones | Fall 2024 |
+| POLSCI 389 · Human Rights | Ragnhild Nordås | Winter 2023 |
+| SOC 430 · World Population Dynamics | Barbara Anderson | Fall 2022 |
+
+## Teaching Assistant, ICPSR Summer Program
+
+| Course | Instructor(s) | Year |
+|---|---|---|
+| Causal Inference for the Social Sciences I | Ben Hansen, Jake Bowers | 2025 |
+| Theoretical Modeling for the Social and Behavioral Sciences | David A. Peterson | 2025 |
+
+I have also tutored graduate students for the political science statistics core (POLSCI 599,
+Fall 2025) at the Inter-university Consortium for Political and Social Research (ICPSR).
+
+<!-- TODO: consider adding a sentence on teaching evaluations if yours are strong -->

@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Tyler Rongxuan Chen"
+  description: "Political scientist studying parties, party systems, and the geography of population groups"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: data.qmd
+        text: Data
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:tylercr@umich.edu"
+        aria-label: Email
+      # TODO: replace YOUR-USERNAME with your GitHub username
+      - icon: github
+        href: "https://github.com/YOUR-USERNAME"
+        aria-label: GitHub
+  page-footer:
+    center: |
+      © 2026 Tyler Rongxuan Chen · Built with [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme.scss
+    toc: false
+    link-external-newwindow: true
+    fontsize: 1.05em

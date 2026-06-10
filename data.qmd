@@ -1,0 +1,29 @@
+---
+title: "Data"
+---
+
+When the quantity of interest is unobserved, I build the data. Every paper ships with a
+journal-grade replication archive; the datasets below are released, or built for release, as
+standalone public resources.
+
+**Malaysia Election Panel Data, 1959–2018.**
+A constituency-level panel covering every Malaysian general election, built from primary electoral
+records with boundary harmonization across successive redistricting exercises.
+Available at Zenodo. <!-- TODO: add Zenodo DOI link from CV -->
+
+**Lower Chamber Elections Archive, Malaysia.**
+Contributed to the [Constituency-Level Elections Archive (CLEA)](http://www.electiondataarchive.org/),
+including candidate-, district-, and party-coding corrections fed back to the archive.
+
+**Three-Country Candidate Career Panels.**
+Career-trajectory panels for every dominant-party candidate in three regimes — the United Malays
+National Organisation (UMNO) in Malaysia (1959–2022), the Liberal Democratic Party (LDP) in Japan
+(1947–2014), and the Kuomintang (KMT) in Taiwan (1986–2024) — assembled from primary records in
+three languages with documented codebooks. Public release planned alongside the associated paper,
+"Crisis from Within."
+
+**Geocoded Settlement Layers for Peninsular Malaysia.**
+Geocoded layers of Emergency-era Chinese New Villages and Federal Land Development Authority
+(FELDA) schemes, joined to historical constituency boundaries for every delineation since 1955,
+with census-interpolated ethnic composition. Released through the replication archives of the
+associated papers.
