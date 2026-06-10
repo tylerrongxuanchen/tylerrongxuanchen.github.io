@@ -7,9 +7,11 @@ website:
   description: "Political scientist studying parties, party systems, and the geography of population groups"
   navbar:
     pinned: true
-    left:
-      - href: index.qmd
-        text: Home
+    title: false
+    logo: assets/um_logo_nav.png
+    logo-alt: "University of Michigan"
+    logo-href: index.qmd
+    right:
       - href: research.qmd
         text: Research
       - href: data.qmd
@@ -18,7 +20,6 @@ website:
         text: Teaching
       - href: cv.qmd
         text: CV
-    right:
       - icon: envelope
         href: "mailto:tylercr@umich.edu"
         aria-label: Email
@@ -26,8 +27,7 @@ website:
         href: "https://github.com/tylercr77"
         aria-label: GitHub
   page-footer:
-    center: |
-      © 2026 Tyler Rongxuan Chen · Built with [Quarto](https://quarto.org)
+    center: "© 2026 Tyler Rongxuan Chen"
 
 format:
   html:

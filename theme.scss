@@ -6,8 +6,10 @@ $maize: #FFCB05;
 
 $primary: $blue-um;
 $link-color: #2F65A7;
-$navbar-bg: $blue-um;
-$navbar-fg: #ffffff;
+
+// light, minimal header (logo carries the color)
+$navbar-bg: #ffffff;
+$navbar-fg: $blue-um;
 
 $font-family-sans-serif: "Source Sans 3", "Segoe UI", -apple-system, sans-serif;
 
@@ -18,13 +20,33 @@ h1, h2, h3 {
   color: $blue-um;
 }
 
-.navbar .navbar-brand {
-  font-weight: 600;
+.navbar {
+  border-bottom: 1px solid #e8e8e8;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+
+// make the UM wordmark readable in the navbar
+.navbar-brand img,
+img.navbar-logo {
+  max-height: 40px;
+  width: auto;
+}
+
+.navbar .nav-link {
+  font-weight: 500;
 }
 
 // subtle maize accent under the active nav item
 .navbar .nav-link.active {
   border-bottom: 3px solid $maize;
+}
+
+// landing page: quieter subtitle under the name
+.quarto-about-solana .subtitle {
+  color: #5a6570;
+  font-size: 1.1em;
+  margin-top: 0.3rem;
 }
 
 // paper entries on the research page

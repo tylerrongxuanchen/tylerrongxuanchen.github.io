@@ -1,10 +1,11 @@
 ---
 title: "Tyler Rongxuan Chen"
+subtitle: "Ph.D. Candidate in Political Science & Scientific Computing, University of Michigan"
 image: assets/profile.jpg
 about:
-  template: trestles
+  template: solana
   image-shape: rounded
-  image-width: 14em
+  image-width: 16em
   links:
     - icon: envelope
       text: Email
