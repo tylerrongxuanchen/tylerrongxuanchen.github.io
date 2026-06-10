@@ -29,7 +29,8 @@ nonresponse, partisan polarization, and cross-cutting cleavages.
 
 **"Myth and Measurement: Spatial Heterogeneity, Ecological Fallacy, and the Urban Narrative in
 Peninsular Malaysia's Electoral Politics."** 2026. *Journal of East Asian Studies* 26(1): 87–112.
-<!-- TODO: add [Article] [Replication] links from the CV -->
+[[Open Access]](https://doi.org/10.1017/jea.2025.10024)
+[[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OKU1MG)
 
 : Aggregate election returns and surveys point the same way once spatial heterogeneity is modeled:
 the apparent urban–rural divide is largely an artifact of aggregation, and ethnicity remains the
@@ -39,11 +40,13 @@ surveys are scarce.
 **"Social Transformation in Malaysia and the Fragmentation of the Malay-Dominant Political
 Parties — Based on a Social Cleavage Structure Theory Perspective"** (with Congcong Fu).
 *Southeast Asian Studies (东南亚研究)* 2021(3): 1–29. In Chinese.
-<!-- TODO: verify publication year displayed (CV lists 2026; issue is 2021(3)) -->
+[[Chinese Full Text]](https://oversea.cnki.net/kcms2/article/abstract?v=k_902IEglk8wSAM2jIIpPwMplcseb-TNmzCu-UEY7hsAeQn_JdUn-ylxAAjwCAP5h29brc9sk6nXJFrsIvM5gsH1IAEU3SPDqEtT_K1a3ETRWRuBdhltEa7CAR0CRUYFvsWvxw3GEaQe5jHdzCGXcXBNCiA27XbkQy81bzL1fOg=&uniplatform=OVERSEA)
+<!-- NOTE: shown with issue year 2021(3); CV lists 2026 — confirm which year to display -->
 
 **"Social Transformation, Dispute over Routes and the Split of Malaysian Islamic Party (PAS)"**
 (with Congcong Fu). *Southeast Asian Affairs (南洋问题研究)* 2020(1): 79–95. In Chinese.
-<!-- TODO: verify publication year displayed (CV lists 2026; issue is 2020(1)) -->
+[[Chinese Full Text]](https://oversea.cnki.net/kcms2/article/abstract?v=k_902IEglk-nvaPkhlWOMWlvn66D9HnyUmLFRfYJ-gZ-9-GeWbzEwOMOwpxekXlczqZE8_xBy_VbfiGQSHcFqJQMSr7ddXJUREHbMyjugRamXT50_2D6oIVC3Xu6pZ0cWil8uFaPgpRfdYEb9YV37tlbbEOVUSnVX_226yQmIoI=&uniplatform=OVERSEA)
+<!-- NOTE: shown with issue year 2020(1); CV lists 2026 — confirm which year to display -->
 
 ## Under Review
 
@@ -74,7 +77,7 @@ the Chinese party press, firm-level event studies, and daily social-media discou
 **"What Race and Ethnicity Hide: Bayesian Approximate Computation with Hierarchical Framework
 (BACH) for Subgroup Voting Behavior under Partisan Polarization, Cross-Cutting Cleavages, and
 Survey Nonresponse."**
-<!-- TODO: add SSRN link -->
+[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610738)
 
 : A simulation-based ecological-inference framework that recovers subgroup voting behavior from
 aggregate election returns under the three conditions that defeat existing tools simultaneously —
@@ -84,7 +87,7 @@ race-level estimators collapse.
 
 **"Research Note: A Higher-Order Method of Moments Approach to Ecological Inference under Extreme
 Survey Nonresponse."**
-<!-- TODO: add SSRN link -->
+[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610778)
 
 : Higher-order moments of the cross-unit distribution of aggregate outcomes identify group voting
 behavior when surveys are unreliable or absent — aimed at historical elections and democracies
@@ -92,7 +95,7 @@ without polling infrastructure.
 
 **"Bridges Burnt: Uneven Urbanization and the Spatial Breakdown of Patronage Infrastructure in
 Malaysia."**
-<!-- TODO: add draft link -->
+[[Latest Draft]](https://drive.google.com/file/d/1LSWR34AtZDZgCARlDtg1fOjLBeo1yGLz/view?usp=sharing)
 
 : Patronage is a delivery technology that depends on geographic social closure. Urbanization
 dissolved that closure settlement type by settlement type — Chinese New Villages near towns before
@@ -114,7 +117,7 @@ conditions.
 
 **"Plant Closures and Trump-Related Twitter Discussion: A Spatial-Temporal Description"**
 (with Robert Franzese).
-<!-- TODO: add draft link -->
+[[Latest Draft]](https://drive.google.com/file/d/1tIvJXYkguEhZdFrNcZL54ObPlFXysP4a/view?usp=sharing)
 
 : Traces how local plant-closing shocks shaped Trump-related and extremist engagement on social
 media across space and time, using a national geocoded tweet corpus.

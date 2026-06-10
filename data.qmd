@@ -9,10 +9,11 @@ standalone public resources.
 **Malaysia Election Panel Data, 1959–2018.**
 A constituency-level panel covering every Malaysian general election, built from primary electoral
 records with boundary harmonization across successive redistricting exercises.
-Available at Zenodo. <!-- TODO: add Zenodo DOI link from CV -->
+[Available at Zenodo](https://zenodo.org/records/15937582).
 
 **Lower Chamber Elections Archive, Malaysia.**
-Contributed to the [Constituency-Level Elections Archive (CLEA)](http://www.electiondataarchive.org/),
+Contributed to the
+[Constituency-Level Elections Archive (CLEA)](https://electiondataarchive.org/data-and-documentation/clea-lower-chamber-elections-archive/),
 including candidate-, district-, and party-coding corrections fed back to the archive.
 
 **Three-Country Candidate Career Panels.**

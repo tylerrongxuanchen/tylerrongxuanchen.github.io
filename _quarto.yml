@@ -22,9 +22,8 @@ website:
       - icon: envelope
         href: "mailto:tylercr@umich.edu"
         aria-label: Email
-      # TODO: replace YOUR-USERNAME with your GitHub username
       - icon: github
-        href: "https://github.com/YOUR-USERNAME"
+        href: "https://github.com/tylercr77"
         aria-label: GitHub
   page-footer:
     center: |
