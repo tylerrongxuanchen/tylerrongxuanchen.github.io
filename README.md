@@ -11,17 +11,16 @@ quarto render           # one-off build into _site/
 
 ## First-time publish to GitHub Pages
 
-1. Create an empty repo on GitHub (e.g. `tyler-chen-website`, or `<username>.github.io`
-   if you want the site at the root URL).
+1. Create an empty repo on GitHub named `tylerrongxuanchen.github.io` (user site → root URL).
 2. From this folder:
 
    ```powershell
-   git remote add origin https://github.com/<username>/tyler-chen-website.git
+   git remote add origin https://github.com/tylerrongxuanchen/tylerrongxuanchen.github.io.git
    git push -u origin main
    quarto publish gh-pages
    ```
 
-3. The site goes live at `https://<username>.github.io/tyler-chen-website/`.
+3. The site goes live at `https://tylerrongxuanchen.github.io/`.
    Subsequent updates: edit, commit, then `quarto publish gh-pages` again.
 
 ## Custom domain (recommended before the job market)
