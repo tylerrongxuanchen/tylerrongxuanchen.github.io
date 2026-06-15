@@ -32,22 +32,40 @@ Peninsular Malaysia's Electoral Politics."** 2026. *Journal of East Asian Studie
 [[Open Access]](https://doi.org/10.1017/jea.2025.10024)
 [[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OKU1MG)
 
-Aggregate election returns and surveys point the same way once spatial heterogeneity is modeled:
-the apparent urban–rural divide is largely an artifact of aggregation, and ethnicity remains the
-dominant cleavage. Aggregate election data, modeled carefully, can answer questions where good
-surveys are scarce.
+Does Malaysia vote along urban–rural lines or along ethnic ones? Combining aggregate election
+returns from Peninsular Malaysia with survey evidence and modeling spatial heterogeneity to guard
+against ecological fallacy, the paper shows that the celebrated urban–rural divide is largely an
+artifact of aggregation: ethnicity, not urbanization, remains the dominant cleavage structuring
+party competition. The result demonstrates that aggregate election data, analyzed with attention
+to spatial heterogeneity, can substitute for surveys in settings where reliable polling is scarce.
 
 **"Social Transformation in Malaysia and the Fragmentation of the Malay-Dominant Political
 Parties — Based on a Social Cleavage Structure Theory Perspective"** (with Congcong Fu).
 *Southeast Asian Studies (东南亚研究)* 2021(3): 1–29. In Chinese.
 [[Chinese Full Text]](assets/papers/Chen_Fu_Malay_Dominant_Parties_Fragmentation.pdf)
 [[English Translation]](assets/papers/Chen_Fu_Malay_Dominant_Parties_Fragmentation_EN.pdf)
+
+After Malaysia's 2018 general election, five Malay-dominant parties held federal seats from
+Peninsular Malaysia alone — all tracing back to successive splits from UMNO. Drawing on social
+cleavage structure theory, the article argues that the fragmentation of Malay-dominant parties
+is the joint product of elite contradictions within the political society and shifting cleavage
+structures within the civil society. When intra-elite conflicts cannot be reconciled, or when a
+new social cleavage emerges, a new party is born; its survival depends on whether it can anchor
+itself to an existing or newly formed cleavage.
 <!-- NOTE: shown with issue year 2021(3); CV lists 2026 — confirm which year to display -->
 
 **"Social Transformation, Dispute over Routes and the Split of Malaysian Islamic Party (PAS)"**
 (with Congcong Fu). *Southeast Asian Affairs (南洋问题研究)* 2020(1): 79–95. In Chinese.
 [[Chinese Full Text]](assets/papers/Fu_Chen_PAS_Split.pdf)
 [[English Translation]](assets/papers/Fu_Chen_PAS_Split_EN.pdf)
+
+The expansion of the Malay ethnic middle class and the imbalance of regional development weakened
+the Ulama faction and differentiated the professional group within the Malaysian Islamic Party
+(PAS), triggering a dispute over how to realize an Islamic state. The internal struggle culminated
+in the 2015 split that produced the National Trust Party (AMANAH). The article traces this process
+through the changing factional composition of PAS and argues that AMANAH's long-term survival
+requires differentiated positioning relative to other Malay-based parties and a unified ideological
+foundation.
 <!-- NOTE: shown with issue year 2020(1); CV lists 2026 — confirm which year to display -->
 
 ## Under Review
@@ -55,24 +73,29 @@ Parties — Based on a Social Cleavage Structure Theory Perspective"** (with Con
 **"Morning News: Public Signals, Elite Defections, and the Collective Abdication of Authoritarian
 Regimes."**
 
-When a survival crisis breaks, dispersed regime elites coordinate their exit through public
-signals — the morning's front page. A global game joined to an original day-by-day elite-stance
-dataset from Indonesia's 1998 transition shows that leaders fall where wide public channels meet
-leader-specific demands.
+When a survival crisis breaks, how do dispersed regime elites coordinate their exit? A global game
+model shows that public signals — the morning's front page — serve as the coordination device. An
+original day-by-day dataset tracking elite public stances during Indonesia's 1998 transition tests
+the mechanism: leaders fall where wide public channels meet leader-specific demands, combining
+archival media coding with a formal model of decentralized elite coordination under uncertainty.
 
 **"Colonial Institutionalization and Unborn Civil Society in Post-Colonial States: Malaysia and
 Indonesia in Comparative Perspective."**
 
 Why do some communal institutions survive decades of hostile policy while comparable ones next
-door are extinguished? Colonial decisions to register, codify, or spatially contain civil-sphere
-domains set the institutional terrain on which communal politics in Malaysia and Indonesia
-still runs.
+door are extinguished? Through a comparative-historical analysis of Malaysia and Indonesia, the
+paper traces the divergence to colonial-era decisions — whether the colonial state chose to
+register, codify, or spatially contain civil-sphere domains. These decisions set the institutional
+terrain on which postcolonial communal politics still runs, even as independent governments
+pursued divergent strategies toward communal organization.
 
 **"Symbolic Power and the Functional Divide: Campaigns Across the Party-State Spectrum."**
 
 Across the party-state spectrum, recurrent mobilizational campaigns are the instrument by which
-a party keeps the state it built subordinate to political ends — evidence from seven decades of
-the Chinese party press, firm-level event studies, and daily social-media discourse.
+a party keeps the state it built subordinate to political ends. Drawing on seven decades of the
+Chinese party press, firm-level event studies that estimate campaigns' economic impact, and daily
+social-media discourse, the paper documents campaigns' functional logic: they discipline the state
+apparatus and renew the party's symbolic authority over it.
 
 ## Working Papers
 
@@ -82,27 +105,33 @@ Survey Nonresponse."**
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610738)
 
 A simulation-based ecological-inference framework that recovers subgroup voting behavior from
-aggregate election returns under the three conditions that defeat existing tools simultaneously —
-validated in large-scale simulation and against statewide voter-file ground truth. Substantively,
-national origin rather than education organizes Hispanic vote choice, a within-race cleavage that
-race-level estimators collapse.
+aggregate election returns under the three conditions that defeat existing tools simultaneously:
+partisan polarization, cross-cutting cleavages, and survey nonresponse. The framework is validated
+through large-scale simulation experiments and benchmarked against statewide voter-file ground
+truth that reveals individual-level vote choice. Substantively, national origin rather than
+education organizes Hispanic vote choice — a within-race cleavage that conventional race-level
+ecological estimators collapse.
 
 **"Research Note: A Higher-Order Method of Moments Approach to Ecological Inference under Extreme
 Survey Nonresponse."**
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610778)
 
-Higher-order moments of the cross-unit distribution of aggregate outcomes identify group voting
-behavior when surveys are unreliable or absent — aimed at historical elections and democracies
-without polling infrastructure.
+When surveys are unreliable or absent — as in historical elections and many democracies without
+polling infrastructure — how can we recover who votes for whom? This research note derives a
+method-of-moments estimator that exploits higher-order moments of the cross-unit distribution of
+aggregate election outcomes to identify group voting behavior without individual-level data,
+offering a closed-form alternative to simulation-based approaches.
 
 **"Bridges Burnt: Uneven Urbanization and the Spatial Breakdown of Patronage Infrastructure in
 Malaysia."**
 [[Latest Draft]](https://drive.google.com/file/d/1LSWR34AtZDZgCARlDtg1fOjLBeo1yGLz/view?usp=sharing)
 
-Patronage is a delivery technology that depends on geographic social closure. Urbanization
-dissolved that closure settlement type by settlement type — Chinese New Villages near towns before
-Malay land schemes in the interior — dismantling Malaysia's ruling-coalition machine decades
-before its 2018 defeat.
+Patronage is a delivery technology that depends on geographic social closure — when communities
+are spatially compact and socially bounded, resources can be targeted and reciprocity enforced.
+Using settlement-level data from Malaysia, the paper shows that urbanization dissolved that closure
+settlement type by settlement type: Chinese New Villages near towns lost their social enclosure
+before Malay land schemes in the interior, dismantling the ruling coalition's patronage machine
+decades before its formal defeat in 2018.
 
 **"Crisis from Within: Elite Defection, Intraparty Competition, and the Breakdown of
 Dominant Party Systems."**
@@ -135,5 +164,7 @@ diagnose–correct–redesign protocol validated on three datasets.
 (with Robert Franzese).
 [[Latest Draft]](https://drive.google.com/file/d/1tIvJXYkguEhZdFrNcZL54ObPlFXysP4a/view?usp=sharing)
 
-Traces how local plant-closing shocks shaped Trump-related and extremist engagement on social
-media across space and time, using a national geocoded tweet corpus.
+How do local economic shocks shape online political extremism? Using a national geocoded tweet
+corpus matched to plant-closure events across the United States, the paper traces how local
+plant-closing shocks shaped Trump-related and extremist engagement on social media, mapping the
+spatial and temporal diffusion of economic-grievance discourse.

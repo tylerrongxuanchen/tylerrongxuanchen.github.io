@@ -26,28 +26,28 @@ about:
 Hi, I'm Tyler! Welcome to my website.
 :::
 
-Tyler Rongxuan Chen is a Ph.D. candidate in Political Science and Scientific Computing at the
-University of Michigan, where he is also completing an M.A. in Statistics. Trained as a social
-demographer and a fellow of Michigan's Population Studies Center, he studies democracy through its
+I am a Ph.D. candidate in Political Science and Scientific Computing at the
+University of Michigan, where I am also completing an M.A. in Statistics. Trained as a social
+demographer and a fellow of Michigan's Population Studies Center, I study democracy through its
 parties and party systems: when and how they realign or come apart as the population groups beneath
 them move, grow, shrink, and re-cluster across space and time.
 
-His dissertation traces these scale effects across the United States, Malaysia, Taiwan, and Japan.
-Methodology is the other half of his work: he is a political methodologist who builds the tools
-needed to recover who votes for whom when surveys fail. His flagship contribution — the Bayesian
-Approximate Computation with Hierarchical framework (BACH) — recovers subgroup voting behavior from
-aggregate election returns where conventional estimators break down, and around it sits a broader
-toolkit: a higher-order method-of-moments estimator for elections without reliable surveys, spatial
-econometrics for electorates whose district boundaries move, and locally run large-language-model
-pipelines for coding archival text.
+My dissertation traces these scale effects across the United States, Malaysia, Taiwan, and Japan.
+Methodology is the other half of my work: I build the tools needed to recover who votes for whom
+when surveys fail. My flagship contribution — the Bayesian Approximate Computation with
+Hierarchical framework (BACH) — recovers subgroup voting behavior from aggregate election returns
+where conventional estimators break down, and around it sits a broader toolkit: a higher-order
+method-of-moments estimator for elections without reliable surveys, spatial econometrics for
+electorates whose district boundaries move, and locally run large-language-model pipelines for
+coding archival text.
 
-His research appears in the *Journal of East Asian Studies*, and he works with primary sources in
-Chinese, Malay, and Indonesian. He has taught across Michigan's quantitative methods sequence —
+My research appears in the *Journal of East Asian Studies*, and I work with primary sources in
+Chinese, Malay, and Indonesian. I have taught across Michigan's quantitative methods sequence —
 from the graduate statistics core to undergraduate data science — as well as social demography
-(*World Population Dynamics*), and has been a teaching assistant at the Inter-university Consortium
+(*World Population Dynamics*), and have been a teaching assistant at the Inter-university Consortium
 for Political and Social Research (ICPSR) Summer Program.
 
-He is on the 2026–27 academic job market.
+I am on the 2026–27 academic job market.
 
-Outside the academy, he volunteers as a cat foster with the
+Outside the academy, I volunteer as a cat foster with the
 [Humane Society of Huron Valley](https://www.hshv.org/).
