@@ -26,7 +26,4 @@ politics.
 | Causal Inference for the Social Sciences I | Ben Hansen, Jake Bowers | 2025 |
 | Theoretical Modeling for the Social and Behavioral Sciences | David A. Peterson | 2025 |
 
-I have also tutored graduate students for the political science statistics core (POLSCI 599,
-Fall 2025) at the Inter-university Consortium for Political and Social Research (ICPSR).
-
 <!-- TODO: consider adding a sentence on teaching evaluations if yours are strong -->
