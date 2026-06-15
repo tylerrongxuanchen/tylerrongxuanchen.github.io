@@ -49,7 +49,7 @@ h1, h2, h3 {
 
 // left-align the about page on mobile (Quarto solana centers it by default)
 @media (max-width: 991.98px) {
-  .quarto-about-solana .about-entity {
+  div.quarto-about-solana .about-entity {
     align-items: flex-start;
     text-align: left;
   }
