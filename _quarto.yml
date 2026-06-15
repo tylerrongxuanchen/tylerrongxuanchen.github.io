@@ -8,6 +8,8 @@ website:
   navbar:
     pinned: true
     right:
+      - href: index.qmd
+        text: Home
       - href: research.qmd
         text: Research
       - href: data.qmd
@@ -19,9 +21,6 @@ website:
       - icon: envelope
         href: "mailto:tylercr@umich.edu"
         aria-label: Email
-      - icon: github
-        href: "https://github.com/tylerrongxuanchen"
-        aria-label: GitHub
   page-footer:
     center: "© 2026 Tyler Rongxuan Chen"
 

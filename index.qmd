@@ -13,9 +13,6 @@ about:
     - icon: file-earmark-pdf
       text: CV
       href: assets/Tyler_Rongxuan_Chen_CV.pdf
-    - icon: github
-      text: GitHub
-      href: "https://github.com/tylerrongxuanchen"
     # TODO: uncomment and fill in once you have a Google Scholar profile URL
     # - icon: mortarboard-fill
     #   text: Google Scholar
