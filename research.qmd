@@ -32,7 +32,7 @@ Peninsular Malaysia's Electoral Politics."** 2026. *Journal of East Asian Studie
 [[Open Access]](https://doi.org/10.1017/jea.2025.10024)
 [[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OKU1MG)
 
-: Aggregate election returns and surveys point the same way once spatial heterogeneity is modeled:
+Aggregate election returns and surveys point the same way once spatial heterogeneity is modeled:
 the apparent urban–rural divide is largely an artifact of aggregation, and ethnicity remains the
 dominant cleavage. Aggregate election data, modeled carefully, can answer questions where good
 surveys are scarce.
@@ -55,7 +55,7 @@ Parties — Based on a Social Cleavage Structure Theory Perspective"** (with Con
 **"Morning News: Public Signals, Elite Defections, and the Collective Abdication of Authoritarian
 Regimes."**
 
-: When a survival crisis breaks, dispersed regime elites coordinate their exit through public
+When a survival crisis breaks, dispersed regime elites coordinate their exit through public
 signals — the morning's front page. A global game joined to an original day-by-day elite-stance
 dataset from Indonesia's 1998 transition shows that leaders fall where wide public channels meet
 leader-specific demands.
@@ -63,14 +63,14 @@ leader-specific demands.
 **"Colonial Institutionalization and Unborn Civil Society in Post-Colonial States: Malaysia and
 Indonesia in Comparative Perspective."**
 
-: Why do some communal institutions survive decades of hostile policy while comparable ones next
+Why do some communal institutions survive decades of hostile policy while comparable ones next
 door are extinguished? Colonial decisions to register, codify, or spatially contain civil-sphere
 domains set the institutional terrain on which communal politics in Malaysia and Indonesia
 still runs.
 
 **"Symbolic Power and the Functional Divide: Campaigns Across the Party-State Spectrum."**
 
-: Across the party-state spectrum, recurrent mobilizational campaigns are the instrument by which
+Across the party-state spectrum, recurrent mobilizational campaigns are the instrument by which
 a party keeps the state it built subordinate to political ends — evidence from seven decades of
 the Chinese party press, firm-level event studies, and daily social-media discourse.
 
@@ -81,7 +81,7 @@ the Chinese party press, firm-level event studies, and daily social-media discou
 Survey Nonresponse."**
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610738)
 
-: A simulation-based ecological-inference framework that recovers subgroup voting behavior from
+A simulation-based ecological-inference framework that recovers subgroup voting behavior from
 aggregate election returns under the three conditions that defeat existing tools simultaneously —
 validated in large-scale simulation and against statewide voter-file ground truth. Substantively,
 national origin rather than education organizes Hispanic vote choice, a within-race cleavage that
@@ -91,7 +91,7 @@ race-level estimators collapse.
 Survey Nonresponse."**
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610778)
 
-: Higher-order moments of the cross-unit distribution of aggregate outcomes identify group voting
+Higher-order moments of the cross-unit distribution of aggregate outcomes identify group voting
 behavior when surveys are unreliable or absent — aimed at historical elections and democracies
 without polling infrastructure.
 
@@ -99,7 +99,7 @@ without polling infrastructure.
 Malaysia."**
 [[Latest Draft]](https://drive.google.com/file/d/1LSWR34AtZDZgCARlDtg1fOjLBeo1yGLz/view?usp=sharing)
 
-: Patronage is a delivery technology that depends on geographic social closure. Urbanization
+Patronage is a delivery technology that depends on geographic social closure. Urbanization
 dissolved that closure settlement type by settlement type — Chinese New Villages near towns before
 Malay land schemes in the interior — dismantling Malaysia's ruling-coalition machine decades
 before its 2018 defeat.
@@ -108,7 +108,7 @@ before its 2018 defeat.
 Dominant Party Systems."**
 [[Latest Draft]](https://drive.google.com/file/d/1YUb8AMHCvt8KkgwZmD1_VZWZ3avjhOJM/view?usp=sharing)
 
-: When and how do dominant party systems break? The cracks they do not recover from come from
+When and how do dominant party systems break? The cracks they do not recover from come from
 within — after years of electoral dominance, led by the party's most successful politicians rather
 than its marginal ones. Across 4,638 candidate-elections in Malaysia's UMNO (1959–2018), Japan's
 LDP (1958–1993), and Taiwan's KMT (1986–2001), a monopoly over office forces losing elites to choose
@@ -122,7 +122,7 @@ its onset and a cleavage phenomenon in its consequences.
 Fixed- and Random-Effects Models"** (with Robert Franzese).
 [[Latest Draft]](https://drive.google.com/file/d/18TgJOSSvd_q9FO4o65y74-4WZ_5UmAXb/view?usp=sharing)
 
-: Fixed- and random-effects models compare each unit to itself over time. When a treatment moves
+Fixed- and random-effects models compare each unit to itself over time. When a treatment moves
 slowly but its measure carries fast-moving error, the within transformation strips out the signal
 and keeps the noise — and the effect it loses does not simply attenuate, it migrates into the unit
 intercepts, masquerading as stable "unit characteristics." Larger samples make this worse, tightening
@@ -135,5 +135,5 @@ diagnose–correct–redesign protocol validated on three datasets.
 (with Robert Franzese).
 [[Latest Draft]](https://drive.google.com/file/d/1tIvJXYkguEhZdFrNcZL54ObPlFXysP4a/view?usp=sharing)
 
-: Traces how local plant-closing shocks shaped Trump-related and extremist engagement on social
+Traces how local plant-closing shocks shaped Trump-related and extremist engagement on social
 media across space and time, using a national geocoded tweet corpus.
