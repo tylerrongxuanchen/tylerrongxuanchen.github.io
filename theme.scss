@@ -46,3 +46,11 @@ h1, h2, h3 {
 .research strong {
   color: $blue-um;
 }
+
+// left-align the about page on mobile (Quarto solana centers it by default)
+@media (max-width: 991.98px) {
+  .quarto-about-solana .about-entity {
+    align-items: flex-start;
+    text-align: left;
+  }
+}
