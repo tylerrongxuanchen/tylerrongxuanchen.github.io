@@ -31,23 +31,23 @@ University of Michigan, where I am also completing an M.A. in Statistics. Traine
 demographer and a fellow of Michigan's Population Studies Center, I study the relationship between
 political parties and the populations beneath them. Parties and party systems stand on alignments
 with particular population groups, and my research asks what happens to those alignments when the
-groups move, grow, shrink, and re-cluster across space and time — and what parties do to defend,
+groups move, grow, shrink, and re-cluster across space and time, and what parties do to defend,
 adapt, or even engineer the populations that sustain them.
 
-My dissertation traces these scale effects across the United States, Malaysia, Taiwan, and Japan.
-Methodology is the other half of my work: I build the tools needed to recover who votes for whom
-when surveys fail. My flagship contribution — the Bayesian Approximate Computation with
-Hierarchical framework (BACH) — recovers subgroup voting behavior from aggregate election returns
-where conventional estimators break down, and around it sits a broader toolkit: a higher-order
-method-of-moments estimator for elections without reliable surveys, spatial econometrics for
-electorates whose district boundaries move, and locally run large-language-model pipelines for
-coding archival text.
+My dissertation traces these effects across the United States, Malaysia, Taiwan, and Japan, asking
+how political parties under different electoral systems manipulate and respond to demographic
+change. Because these questions outrun existing tools, I also build new ones. My flagship
+methodological contribution is the Bayesian Approximate Computation with Hierarchical framework
+(BACH), a simulation-based ecological-inference estimator that recovers subgroup voting behavior
+from aggregate election returns where conventional estimators break down. Supporting that work is
+a broader toolkit of spatial econometrics for electorates whose district boundaries move and
+locally run large-language-model pipelines for coding archival text.
 
 My research appears in the *Journal of East Asian Studies*, and I work with primary sources in
-Chinese, Malay, and Indonesian. I have taught across Michigan's quantitative methods sequence —
-from the graduate statistics core to undergraduate data science — as well as social demography
-(*World Population Dynamics*), and have been a teaching assistant at the Inter-university Consortium
-for Political and Social Research (ICPSR) Summer Program.
+Chinese, Malay, and Indonesian. I have taught across Michigan's quantitative methods sequence,
+from the graduate statistics core to undergraduate data science, as well as social demography, and
+have been a teaching assistant at the Inter-university Consortium for Political and Social Research
+(ICPSR) Summer Program.
 
 I am on the 2026–27 academic job market.
 

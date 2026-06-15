@@ -6,7 +6,7 @@ toc-title: "On this page"
 
 One question runs through my research program: when and how do party systems realign or come apart
 as the population groups beneath them move, grow, shrink, and re-cluster? The dissertation argues
-that parties stand not on individual voters but on territorially arranged groups — the same
+that parties stand not on individual voters but on territorially arranged groups; the same
 electorate can sustain a coalition under one spatial arrangement and break it under another. When
 urbanization, migration, or generational replacement re-sorts those groups, voter blocs realign
 from below and elites defect from within. The argument is developed across the United States,
@@ -20,8 +20,8 @@ component in development follows Latino voters in the United States as they move
 the elite side, dominant parties manufacture their own splits: elites defect when they lose
 internal contests, and regime elites coordinate collective abdication through public signals.
 
-Because these questions outrun existing tools, the methodological strand builds new ones —
-above all the Bayesian Approximate Computation with Hierarchical framework (BACH), a
+Because these questions outrun existing tools, the methodological strand builds new ones, above all the Bayesian Approximate
+Computation with Hierarchical framework (BACH), a
 simulation-based ecological-inference estimator for subgroup voting behavior under survey
 nonresponse, partisan polarization, and cross-cutting cleavages.
 
@@ -46,7 +46,7 @@ Parties — Based on a Social Cleavage Structure Theory Perspective"** (with Con
 [[English Translation]](assets/papers/Chen_Fu_Malay_Dominant_Parties_Fragmentation_EN.pdf)
 
 After Malaysia's 2018 general election, five Malay-dominant parties held federal seats from
-Peninsular Malaysia alone — all tracing back to successive splits from UMNO. Drawing on social
+Peninsular Malaysia alone, all tracing back to successive splits from UMNO. Drawing on social
 cleavage structure theory, the article argues that the fragmentation of Malay-dominant parties
 is the joint product of elite contradictions within the political society and shifting cleavage
 structures within the civil society. When intra-elite conflicts cannot be reconciled, or when a
@@ -74,7 +74,7 @@ foundation.
 Regimes."**
 
 When a survival crisis breaks, how do dispersed regime elites coordinate their exit? A global game
-model shows that public signals — the morning's front page — serve as the coordination device. An
+model shows that public signals (the morning's front page) serve as the coordination device. An
 original day-by-day dataset tracking elite public stances during Indonesia's 1998 transition tests
 the mechanism: leaders fall where wide public channels meet leader-specific demands, combining
 archival media coding with a formal model of decentralized elite coordination under uncertainty.
@@ -84,7 +84,7 @@ Indonesia in Comparative Perspective."**
 
 Why do some communal institutions survive decades of hostile policy while comparable ones next
 door are extinguished? Through a comparative-historical analysis of Malaysia and Indonesia, the
-paper traces the divergence to colonial-era decisions — whether the colonial state chose to
+paper traces the divergence to colonial-era decisions: whether the colonial state chose to
 register, codify, or spatially contain civil-sphere domains. These decisions set the institutional
 terrain on which postcolonial communal politics still runs, even as independent governments
 pursued divergent strategies toward communal organization.
@@ -109,15 +109,15 @@ aggregate election returns under the three conditions that defeat existing tools
 partisan polarization, cross-cutting cleavages, and survey nonresponse. The framework is validated
 through large-scale simulation experiments and benchmarked against statewide voter-file ground
 truth that reveals individual-level vote choice. Substantively, national origin rather than
-education organizes Hispanic vote choice — a within-race cleavage that conventional race-level
+education organizes Hispanic vote choice, a within-race cleavage that conventional race-level
 ecological estimators collapse.
 
 **"Research Note: A Higher-Order Method of Moments Approach to Ecological Inference under Extreme
 Survey Nonresponse."**
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610778)
 
-When surveys are unreliable or absent — as in historical elections and many democracies without
-polling infrastructure — how can we recover who votes for whom? This research note derives a
+When surveys are unreliable or absent, as in historical elections and many democracies without
+polling infrastructure, how can we recover who votes for whom? This research note derives a
 method-of-moments estimator that exploits higher-order moments of the cross-unit distribution of
 aggregate election outcomes to identify group voting behavior without individual-level data,
 offering a closed-form alternative to simulation-based approaches.
@@ -126,7 +126,7 @@ offering a closed-form alternative to simulation-based approaches.
 Malaysia."**
 [[Latest Draft]](https://drive.google.com/file/d/1LSWR34AtZDZgCARlDtg1fOjLBeo1yGLz/view?usp=sharing)
 
-Patronage is a delivery technology that depends on geographic social closure — when communities
+Patronage is a delivery technology that depends on geographic social closure: when communities
 are spatially compact and socially bounded, resources can be targeted and reciprocity enforced.
 Using settlement-level data from Malaysia, the paper shows that urbanization dissolved that closure
 settlement type by settlement type: Chinese New Villages near towns lost their social enclosure
@@ -138,10 +138,10 @@ Dominant Party Systems."**
 [[Latest Draft]](https://drive.google.com/file/d/1YUb8AMHCvt8KkgwZmD1_VZWZ3avjhOJM/view?usp=sharing)
 
 When and how do dominant party systems break? The cracks they do not recover from come from
-within — after years of electoral dominance, led by the party's most successful politicians rather
+within, after years of electoral dominance, led by the party's most successful politicians rather
 than its marginal ones. Across 4,638 candidate-elections in Malaysia's UMNO (1959–2018), Japan's
 LDP (1958–1993), and Taiwan's KMT (1986–2001), a monopoly over office forces losing elites to choose
-between marginalization and exit — producing *bloc exits*, when cohesive factions leave together
+between marginalization and exit, producing *bloc exits*, when cohesive factions leave together
 after losing leadership struggles, and *marginal exits*, when weakened candidates depart alone.
 Whether a split actually ends the party's dominance is downstream: breakaway parties endure only
 when they attach to a social cleavage the parent cannot absorb. Breakdown is an elite phenomenon in
@@ -153,11 +153,11 @@ Fixed- and Random-Effects Models"** (with Robert Franzese).
 
 Fixed- and random-effects models compare each unit to itself over time. When a treatment moves
 slowly but its measure carries fast-moving error, the within transformation strips out the signal
-and keeps the noise — and the effect it loses does not simply attenuate, it migrates into the unit
+and keeps the noise, and the effect it loses does not simply attenuate; it migrates into the unit
 intercepts, masquerading as stable "unit characteristics." Larger samples make this worse, tightening
 confidence intervals around the wrong value and driving the Hausman test toward the most biased
-specification. The paper proves the result, establishes a scope condition — unit effects worsen
-attenuation only when the signal is more persistent than the error — and supplies a
+specification. The paper proves the result, establishes a scope condition (unit effects worsen
+attenuation only when the signal is more persistent than the error) and supplies a
 diagnose–correct–redesign protocol validated on three datasets.
 
 **"Plant Closures and Trump-Related Twitter Discussion: A Spatial-Temporal Description"**
