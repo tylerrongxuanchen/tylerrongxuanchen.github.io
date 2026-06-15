@@ -28,9 +28,11 @@ Hi, I'm Tyler! Welcome to my website.
 
 I am a Ph.D. candidate in Political Science and Scientific Computing at the
 University of Michigan, where I am also completing an M.A. in Statistics. Trained as a social
-demographer and a fellow of Michigan's Population Studies Center, I study democracy through its
-parties and party systems: when and how they realign or come apart as the population groups beneath
-them move, grow, shrink, and re-cluster across space and time.
+demographer and a fellow of Michigan's Population Studies Center, I study the relationship between
+political parties and the populations beneath them. Parties and party systems stand on alignments
+with particular population groups, and my research asks what happens to those alignments when the
+groups move, grow, shrink, and re-cluster across space and time — and what parties do to defend,
+adapt, or even engineer the populations that sustain them.
 
 My dissertation traces these scale effects across the United States, Malaysia, Taiwan, and Japan.
 Methodology is the other half of my work: I build the tools needed to recover who votes for whom
