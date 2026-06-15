@@ -102,18 +102,32 @@ dissolved that closure settlement type by settlement type — Chinese New Villag
 Malay land schemes in the interior — dismantling Malaysia's ruling-coalition machine decades
 before its 2018 defeat.
 
-**"Crisis from Within: Elite Defection and Intraparty Competition in Dominant-Party Regimes."**
+**"Crisis from Within: Elite Defection, Intraparty Competition, and the Breakdown of
+Dominant Party Systems."**
+[[Latest Draft]](https://drive.google.com/file/d/1YUb8AMHCvt8KkgwZmD1_VZWZ3avjhOJM/view?usp=sharing)
 
-: Elites defect from dominant parties at the height of party strength: losing an internal contest
-forces a choice between marginalization and exit, and breakaway parties endure only when they
-attach to a social cleavage the parent cannot absorb. Built on candidate-level career panels
-covering every United Malays National Organisation (UMNO), Liberal Democratic Party (LDP), and
-Kuomintang (KMT) candidate across each party's dominant era.
+: When and how do dominant party systems break? The cracks they do not recover from come from
+within — after years of electoral dominance, led by the party's most successful politicians rather
+than its marginal ones. Across 4,638 candidate-elections in Malaysia's UMNO (1959–2018), Japan's
+LDP (1958–1993), and Taiwan's KMT (1986–2001), a monopoly over office forces losing elites to choose
+between marginalization and exit — producing *bloc exits*, when cohesive factions leave together
+after losing leadership struggles, and *marginal exits*, when weakened candidates depart alone.
+Whether a split actually ends the party's dominance is downstream: breakaway parties endure only
+when they attach to a social cleavage the parent cannot absorb. Breakdown is an elite phenomenon in
+its onset and a cleavage phenomenon in its consequences.
 
-**"Inducing Measurement Error? Fixed Effect under Asymptotic Conditions"** (with Robert Franzese).
+**"What the Slope Loses, the Intercepts Gain: Measurement Error and Misattributed Effects in
+Fixed- and Random-Effects Models"** (with Robert Franzese).
+[[Latest Draft]](https://drive.google.com/file/d/18TgJOSSvd_q9FO4o65y74-4WZ_5UmAXb/view?usp=sharing)
 
-: Asks when fixed-effects specifications induce, rather than remove, bias under asymptotic
-conditions.
+: Fixed- and random-effects models compare each unit to itself over time. When a treatment moves
+slowly but its measure carries fast-moving error, the within transformation strips out the signal
+and keeps the noise — and the effect it loses does not simply attenuate, it migrates into the unit
+intercepts, masquerading as stable "unit characteristics." Larger samples make this worse, tightening
+confidence intervals around the wrong value and driving the Hausman test toward the most biased
+specification. The paper proves the result, establishes a scope condition — unit effects worsen
+attenuation only when the signal is more persistent than the error — and supplies a
+diagnose–correct–redesign protocol validated on three datasets.
 
 **"Plant Closures and Trump-Related Twitter Discussion: A Spatial-Temporal Description"**
 (with Robert Franzese).

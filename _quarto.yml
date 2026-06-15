@@ -7,10 +7,6 @@ website:
   description: "Political scientist studying parties, party systems, and the geography of population groups"
   navbar:
     pinned: true
-    title: false
-    logo: assets/um_logo_nav.png
-    logo-alt: "University of Michigan"
-    logo-href: index.qmd
     right:
       - href: research.qmd
         text: Research

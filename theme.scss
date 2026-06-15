@@ -5,9 +5,9 @@ $blue-um: #00274C;
 $maize: #FFCB05;
 
 $primary: $blue-um;
-$link-color: #2F65A7;
+$link-color: $blue-um; // Michigan Blue (PMS 282 C, #00274C)
 
-// light, minimal header (logo carries the color)
+// light, minimal header
 $navbar-bg: #ffffff;
 $navbar-fg: $blue-um;
 
@@ -24,13 +24,6 @@ h1, h2, h3 {
   border-bottom: 1px solid #e8e8e8;
   padding-top: 0.6rem;
   padding-bottom: 0.6rem;
-}
-
-// make the UM wordmark readable in the navbar
-.navbar-brand img,
-img.navbar-logo {
-  max-height: 40px;
-  width: auto;
 }
 
 .navbar .nav-link {

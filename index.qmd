@@ -25,6 +25,10 @@ about:
       href: "https://prod.lsa.umich.edu/polisci/people/graduate-students/tyler-chen.html"
 ---
 
+::: {.lead}
+Hi, I'm Tyler! Welcome to my website.
+:::
+
 Tyler Rongxuan Chen is a Ph.D. candidate in Political Science and Scientific Computing at the
 University of Michigan, where he is also completing an M.A. in Statistics. He studies democracy
 through its parties and party systems: when and how they realign or come apart as the population
@@ -41,3 +45,6 @@ from the graduate statistics core to undergraduate data science, and at the Inte
 Consortium for Political and Social Research (ICPSR) Summer Program.
 
 He is on the 2026–27 academic job market.
+
+Outside the academy, he volunteers as a cat foster with the
+[Humane Society of Huron Valley](https://www.hshv.org/).
