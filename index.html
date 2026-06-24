@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-0d6b9e0d4893ef3f857847b7484500e1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -155,9 +155,10 @@ ul.task-list li input[type="checkbox"] {
 <div class="lead">
 <p>Hi, I’m Tyler! Welcome to my website.</p>
 </div>
-<p>I am a Ph.D.&nbsp;candidate in Political Science and Scientific Computing at the University of Michigan, where I am also completing an M.A.&nbsp;in Statistics. With a background in political science, social demography, comparative-historical analysis, and area studies, I study the relationship between political parties and the populations beneath them. Parties and party systems stand on alignments with particular population groups, and my research asks what happens to those alignments when the groups move, grow, shrink, and re-cluster across space and time, and what parties do to defend, adapt, or even engineer the populations that sustain them.</p>
-<p>My dissertation traces these effects across the United States, Malaysia, Taiwan, and Japan, asking how political parties under different electoral systems manipulate and respond to demographic change. Because these questions outrun existing tools, I also build new ones. My flagship methodological contribution is the Bayesian Approximate Computation with Hierarchical framework (BACH), a simulation-based ecological-inference estimator that recovers subgroup voting behavior from aggregate election returns where conventional estimators break down. Supporting that work is a broader toolkit of spatial econometrics for electorates whose district boundaries move and locally run large-language-model pipelines for coding archival text.</p>
-<p>My research appears in the <em>Journal of East Asian Studies</em>, and I work with primary sources in Chinese, Malay, and Indonesian. I have taught across Michigan’s quantitative methods sequence, from the graduate statistics core to undergraduate data science, as well as social demography, and have been a teaching assistant at the Inter-university Consortium for Political and Social Research (ICPSR) Summer Program.</p>
+<p>I am a Ph.D.&nbsp;candidate in Political Science and Scientific Computing at the University of Michigan, where I am also completing an M.A.&nbsp;in Statistics. Why does a party that rests on the same communities hold together in one place and come apart in another? I study population structure, the spatially arranged communities that political parties rest on, and how it shapes party systems. My starting point is that communal groups are largely made rather than inherited: they take shape through geography, colonial institutions, and state-led settlement, and they shift again as development and migration rearrange where people live. As that structure changes, the coalitions parties depend on tend to change with it, and parties in turn try to hold, adjust to, or reshape the populations that sustain them.</p>
+<p>I treat this as both a substantive and a methodological question, since the two are difficult to separate here: because communal groups are constructed and internally divided, group behavior cannot simply be read off aggregate election returns. I therefore work in comparative politics (parties, elections, and ethnic and urban-rural cleavages) alongside political methodology (ecological inference, spatial models, and corrections for measurement error), and I build the datasets these questions tend to require, often from primary sources in Chinese, Malay, and Indonesian.</p>
+<p>Most of my work centers on Malaysia, where I trace how the settlement geography of Malay and Chinese communities helped build, and later helped unsettle, the coalition behind <em>Barisan Nasional</em> (the National Front, BN). I take the same questions to Taiwan, Japan, and Indonesia, and, increasingly, to the United States. In Florida, I am tracing how Latino communities have moved and re-sorted across the state over the past two decades, using geocoded religious sites and music-radio listening as signals of communal change, to understand the conservative turn among Latino voters. In New York City, I am beginning fieldwork on the overseas-Chinese community that also figures in Malaysian politics, now embedded in a very different party system.</p>
+<p>My papers, datasets, and CV are linked above.</p>
 <p>I am on the 2026–27 academic job market.</p>
 <p>Outside the academy, I volunteer as a cat foster with the <a href="https://www.hshv.org/">Humane Society of Huron Valley</a>.</p>
 
@@ -235,7 +236,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/tylerrongxuanchen\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
