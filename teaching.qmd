@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+description: "Teaching the quantitative methods sequence — statistics, regression, causal inference, Bayesian and computational methods — alongside courses on parties, elections, democratization, and East and Southeast Asian politics."
 ---
 
 I am prepared to teach the quantitative methods sequence at every level — from introductory

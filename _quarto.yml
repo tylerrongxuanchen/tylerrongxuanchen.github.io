@@ -1,10 +1,16 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - llms.txt
 
 website:
   title: "Tyler Rongxuan Chen"
   description: "Political scientist studying parties, party systems, and the geography of population groups"
+  site-url: "https://tylerrongxuanchen.github.io"
+  image: assets/profile.jpg
+  open-graph: true
+  twitter-card: true
   navbar:
     pinned: true
     right:

@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "Research on population structure and party systems — ecological inference, spatial models, and measurement-error corrections — across Malaysia, East and Southeast Asia, and the United States."
 toc: true
 toc-title: "On this page"
 ---
@@ -167,3 +168,126 @@ How do local economic shocks shape online political extremism? Using a national 
 corpus matched to plant-closure events across the United States, the paper traces how local
 plant-closing shocks shaped Trump-related and extremist engagement on social media, mapping the
 spatial and temporal diffusion of economic-grievance discourse.
+
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Myth and Measurement: Spatial Heterogeneity, Ecological Fallacy, and the Urban Narrative in Peninsular Malaysia's Electoral Politics",
+      "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "datePublished": "2026",
+      "inLanguage": "en",
+      "isPartOf": { "@type": "Periodical", "name": "Journal of East Asian Studies" },
+      "volumeNumber": "26",
+      "issueNumber": "1",
+      "pagination": "87-112",
+      "creativeWorkStatus": "Published",
+      "identifier": "https://doi.org/10.1017/jea.2025.10024",
+      "sameAs": "https://doi.org/10.1017/jea.2025.10024"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Social Transformation in Malaysia and the Fragmentation of the Malay-Dominant Political Parties: Based on a Social Cleavage Structure Theory Perspective",
+      "author": [
+        { "@id": "https://tylerrongxuanchen.github.io/#person" },
+        { "@type": "Person", "name": "Congcong Fu" }
+      ],
+      "datePublished": "2021",
+      "inLanguage": "zh",
+      "isPartOf": { "@type": "Periodical", "name": "Southeast Asian Studies (东南亚研究)" },
+      "issueNumber": "3",
+      "pagination": "1-29",
+      "creativeWorkStatus": "Published"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Social Transformation, Dispute over Routes and the Split of Malaysian Islamic Party (PAS)",
+      "author": [
+        { "@id": "https://tylerrongxuanchen.github.io/#person" },
+        { "@type": "Person", "name": "Congcong Fu" }
+      ],
+      "datePublished": "2020",
+      "inLanguage": "zh",
+      "isPartOf": { "@type": "Periodical", "name": "Southeast Asian Affairs (南洋问题研究)" },
+      "issueNumber": "1",
+      "pagination": "79-95",
+      "creativeWorkStatus": "Published"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Morning News: Public Signals, Elite Defections, and the Collective Abdication of Authoritarian Regimes",
+      "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "inLanguage": "en",
+      "creativeWorkStatus": "Under review"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Colonial Institutionalization and Unborn Civil Society in Post-Colonial States: Malaysia and Indonesia in Comparative Perspective",
+      "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "inLanguage": "en",
+      "creativeWorkStatus": "Under review"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Symbolic Power and the Functional Divide: Campaigns Across the Party-State Spectrum",
+      "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "inLanguage": "en",
+      "creativeWorkStatus": "Under review"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Bridges Burnt: Uneven Urbanization and the Spatial Breakdown of Patronage Infrastructure in Malaysia",
+      "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "inLanguage": "en",
+      "creativeWorkStatus": "Working paper"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Crisis from Within: Elite Defection, Intraparty Competition, and the Breakdown of Dominant Party Systems",
+      "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "inLanguage": "en",
+      "creativeWorkStatus": "Working paper"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "What Race and Ethnicity Hide: Bayesian Approximate Computation with Hierarchical Framework (BACH) for Subgroup Voting Behavior under Partisan Polarization, Cross-Cutting Cleavages, and Survey Nonresponse",
+      "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "inLanguage": "en",
+      "creativeWorkStatus": "Working paper",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610738"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Research Note: A Higher-Order Method of Moments Approach to Ecological Inference under Extreme Survey Nonresponse",
+      "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "inLanguage": "en",
+      "creativeWorkStatus": "Working paper",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610778"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "What the Slope Loses, the Intercepts Gain: Measurement Error and Misattributed Effects in Fixed- and Random-Effects Models",
+      "author": [
+        { "@id": "https://tylerrongxuanchen.github.io/#person" },
+        { "@type": "Person", "name": "Robert Franzese" }
+      ],
+      "inLanguage": "en",
+      "creativeWorkStatus": "Working paper"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Plant Closures and Trump-Related Twitter Discussion: A Spatial-Temporal Description",
+      "author": [
+        { "@id": "https://tylerrongxuanchen.github.io/#person" },
+        { "@type": "Person", "name": "Robert Franzese" }
+      ],
+      "inLanguage": "en",
+      "creativeWorkStatus": "Working paper"
+    }
+  ]
+}
+</script>
+```

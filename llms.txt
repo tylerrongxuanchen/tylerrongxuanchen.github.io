@@ -1,0 +1,30 @@
+# Tyler Rongxuan Chen
+
+> Ph.D. candidate in Political Science and Scientific Computing at the University of Michigan
+> (M.A. in Statistics in progress). Comparative politics and political methodology. Studies
+> population structure — the spatially arranged communities that parties rest on — and how it
+> shapes party systems, with work on Malaysia, Taiwan, Japan, Indonesia, and the United States.
+> On the 2026–27 academic job market.
+
+## Research focus
+
+- Political parties and party systems; ethnic and urban–rural cleavages; dominant-party breakdown.
+- Political methodology: ecological inference (the BACH estimator), spatial models for shifting
+  electoral boundaries, and corrections for measurement error in demographic panels.
+- Regional depth in Malaysia, with extensions to Taiwan, Japan, Indonesia, and the United States
+  (Latino re-sorting in Florida; the overseas-Chinese community in New York City).
+
+## Pages
+
+- [Home](https://tylerrongxuanchen.github.io/index.html): biography and research overview.
+- [Research](https://tylerrongxuanchen.github.io/research.html): peer-reviewed publications, papers under review, and working papers, each with a short summary.
+- [Data](https://tylerrongxuanchen.github.io/data.html): public datasets, including the Malaysia Election Panel (1959–2018) and three-country candidate career panels.
+- [Teaching](https://tylerrongxuanchen.github.io/teaching.html): methods-sequence and comparative-politics teaching.
+- [CV](https://tylerrongxuanchen.github.io/cv.html): full curriculum vitae (PDF).
+
+## Identifiers
+
+- ORCID: https://orcid.org/0009-0007-9694-5533
+- Google Scholar: https://scholar.google.com/citations?user=xayX394AAAAJ&hl=en
+- Department profile: https://prod.lsa.umich.edu/polisci/people/graduate-students/tyler-chen.html
+- Email: tylercr@umich.edu

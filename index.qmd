@@ -1,6 +1,7 @@
 ---
 title: "Tyler Rongxuan Chen"
 subtitle: "Ph.D. Candidate in Political Science & Scientific Computing, University of Michigan"
+description: "Tyler Rongxuan Chen is a Ph.D. candidate at the University of Michigan studying political parties, party systems, and the geography of population groups across Malaysia, East and Southeast Asia, and the United States."
 image: assets/profile.jpg
 about:
   template: solana
@@ -13,10 +14,12 @@ about:
     - icon: file-earmark-pdf
       text: CV
       href: assets/Tyler_Rongxuan_Chen_CV.pdf
-    # TODO: uncomment and fill in once you have a Google Scholar profile URL
-    # - icon: mortarboard-fill
-    #   text: Google Scholar
-    #   href: "https://scholar.google.com/citations?user=YOUR-ID"
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=xayX394AAAAJ&hl=en"
+    - icon: person-badge
+      text: ORCID
+      href: "https://orcid.org/0009-0007-9694-5533"
     - icon: building
       text: Department Profile
       href: "https://prod.lsa.umich.edu/polisci/people/graduate-students/tyler-chen.html"
@@ -59,3 +62,54 @@ I am on the 2026–27 academic job market.
 
 Outside the academy, I am dad of two black cats, Erik and Theda, and a volunteer foster
 with the [Humane Society of Huron Valley](https://www.hshv.org/).
+
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://tylerrongxuanchen.github.io/#person",
+  "name": "Tyler Rongxuan Chen",
+  "url": "https://tylerrongxuanchen.github.io/",
+  "image": "https://tylerrongxuanchen.github.io/assets/profile.jpg",
+  "jobTitle": "Ph.D. Candidate in Political Science and Scientific Computing",
+  "description": "Political scientist studying political parties, party systems, and the geography of population groups, with fieldwork and data work on Malaysia, Taiwan, Japan, Indonesia, and the United States.",
+  "email": "mailto:tylercr@umich.edu",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Michigan",
+    "department": "Department of Political Science"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Michigan"
+  },
+  "knowsAbout": [
+    "Comparative politics",
+    "Political methodology",
+    "Political parties and party systems",
+    "Elections and electoral behavior",
+    "Ecological inference",
+    "Spatial analysis",
+    "Measurement error",
+    "Ethnic and urban-rural cleavages",
+    "Malaysian politics",
+    "Southeast Asian politics",
+    "East Asian politics"
+  ],
+  "knowsLanguage": ["English", "Chinese", "Malay", "Indonesian"],
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "ORCID",
+    "value": "0009-0007-9694-5533",
+    "url": "https://orcid.org/0009-0007-9694-5533"
+  },
+  "sameAs": [
+    "https://orcid.org/0009-0007-9694-5533",
+    "https://scholar.google.com/citations?user=xayX394AAAAJ&hl=en",
+    "https://prod.lsa.umich.edu/polisci/people/graduate-students/tyler-chen.html",
+    "https://github.com/tylerrongxuanchen"
+  ]
+}
+</script>
+```

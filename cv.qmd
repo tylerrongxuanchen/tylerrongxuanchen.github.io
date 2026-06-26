@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae"
+description: "Curriculum vitae of Tyler Rongxuan Chen, Ph.D. candidate in Political Science and Scientific Computing at the University of Michigan."
 ---
 
 [Download CV (PDF)](assets/Tyler_Rongxuan_Chen_CV.pdf){.btn .btn-primary}
