@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Public datasets built from primary sources: a Malaysian constituency-level election panel (1959–2018), candidate career panels for UMNO, the LDP, and the KMT, and geocoded settlement layers for Peninsular Malaysia.">
 
 <title>Data – Tyler Rongxuan Chen</title>
 <style>
@@ -71,6 +72,14 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<meta property="og:title" content="Data – Tyler Rongxuan Chen">
+<meta property="og:description" content="Public datasets built from primary sources: a Malaysian constituency-level election panel (1959–2018), candidate career panels for UMNO, the LDP, and the KMT, and geocoded settlement layers for Peninsular Malaysia.">
+<meta property="og:image" content="https://tylerrongxuanchen.github.io/assets/profile.jpg">
+<meta property="og:site_name" content="Tyler Rongxuan Chen">
+<meta name="twitter:title" content="Data – Tyler Rongxuan Chen">
+<meta name="twitter:description" content="Public datasets built from primary sources: a Malaysian constituency-level election panel (1959–2018), candidate career panels for UMNO, the LDP, and the KMT, and geocoded settlement layers for Peninsular Malaysia.">
+<meta name="twitter:image" content="https://tylerrongxuanchen.github.io/assets/profile.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -135,6 +144,11 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">Data</h1>
 </div>
 
+<div>
+  <div class="description">
+    Public datasets built from primary sources: a Malaysian constituency-level election panel (1959–2018), candidate career panels for UMNO, the LDP, and the KMT, and geocoded settlement layers for Peninsular Malaysia.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -154,6 +168,48 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Lower Chamber Elections Archive, Malaysia.</strong> Contributed to the <a href="https://electiondataarchive.org/data-and-documentation/clea-lower-chamber-elections-archive/">Constituency-Level Elections Archive (CLEA)</a>, including candidate-, district-, and party-coding corrections fed back to the archive.</p>
 <p><strong>Three-Country Candidate Career Panels.</strong> Career-trajectory panels for every dominant-party candidate in three regimes: the United Malays National Organisation (UMNO) in Malaysia (1959–2022), the Liberal Democratic Party (LDP) in Japan (1947–2014), and the Kuomintang (KMT) in Taiwan (1986–2024), assembled from primary records in three languages with documented codebooks. Public release planned alongside the associated paper, “Crisis from Within.”</p>
 <p><strong>Geocoded Settlement Layers for Peninsular Malaysia.</strong> Geocoded layers of Emergency-era Chinese New Villages and Federal Land Development Authority (FELDA) schemes, joined to historical constituency boundaries for every delineation since 1955, with census-interpolated ethnic composition. Released through the replication archives of the associated papers.</p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "name": "Malaysia Election Panel Data, 1959–2018",
+      "description": "A constituency-level panel covering every Malaysian general election, built from primary electoral records with boundary harmonization across successive redistricting exercises.",
+      "creator": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "temporalCoverage": "1959/2018",
+      "spatialCoverage": "Malaysia",
+      "url": "https://zenodo.org/records/15937582",
+      "sameAs": "https://zenodo.org/records/15937582",
+      "includedInDataCatalog": { "@type": "DataCatalog", "name": "Zenodo" }
+    },
+    {
+      "@type": "Dataset",
+      "name": "Lower Chamber Elections Archive, Malaysia",
+      "description": "Candidate-, district-, and party-coding corrections for Malaysia contributed to the Constituency-Level Elections Archive (CLEA).",
+      "contributor": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "spatialCoverage": "Malaysia",
+      "url": "https://electiondataarchive.org/data-and-documentation/clea-lower-chamber-elections-archive/",
+      "includedInDataCatalog": { "@type": "DataCatalog", "name": "Constituency-Level Elections Archive (CLEA)" }
+    },
+    {
+      "@type": "Dataset",
+      "name": "Three-Country Candidate Career Panels",
+      "description": "Career-trajectory panels for every dominant-party candidate in three regimes: UMNO in Malaysia (1959–2022), the LDP in Japan (1947–2014), and the KMT in Taiwan (1986–2024), assembled from primary records in three languages with documented codebooks.",
+      "creator": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "spatialCoverage": ["Malaysia", "Japan", "Taiwan"],
+      "creativeWorkStatus": "In preparation; public release planned alongside the paper \"Crisis from Within\""
+    },
+    {
+      "@type": "Dataset",
+      "name": "Geocoded Settlement Layers for Peninsular Malaysia",
+      "description": "Geocoded layers of Emergency-era Chinese New Villages and Federal Land Development Authority (FELDA) schemes, joined to historical constituency boundaries for every delineation since 1955, with census-interpolated ethnic composition.",
+      "creator": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "spatialCoverage": "Peninsular Malaysia"
+    }
+  ]
+}
+</script>
 
 
 
@@ -231,7 +287,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/tylerrongxuanchen\.github\.io\/");
+        var filterRegex = new RegExp("https:\/\/tylerrongxuanchen\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
