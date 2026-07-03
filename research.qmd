@@ -128,6 +128,7 @@ its onset and a cleavage phenomenon in its consequences.
 (BACH) for Subgroup Voting Behavior under Partisan Polarization, Cross-Cutting Cleavages, and
 Survey Nonresponse."**
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610738)
+[[Poster at PolMeth 2026]](assets/papers/Chen_BACH_PolMeth_2026_Poster.pdf)
 
 A simulation-based ecological-inference framework that recovers subgroup voting behavior from
 aggregate election returns under the three conditions that defeat existing tools simultaneously:
