@@ -1,9 +1,10 @@
 # Tyler Rongxuan Chen
 
 > Ph.D. candidate in Political Science and Scientific Computing at the University of Michigan
-> (M.A. in Statistics in progress). Comparative politics and political methodology. Studies
-> population structure — the spatially arranged communities that parties rest on — and how it
-> shapes party systems, with work on Malaysia, Taiwan, Japan, Indonesia, and the United States.
+> (M.A. in Statistics in progress). Comparative politics and political methodology. Studies the
+> elite origins and the societal foundations of parties and party systems, and builds the
+> ecological-inference tools that recover how groups vote from aggregate election results, with
+> work on Malaysia, Taiwan, Japan, Indonesia, and the United States.
 > On the 2026–27 academic job market.
 
 ## Research focus
