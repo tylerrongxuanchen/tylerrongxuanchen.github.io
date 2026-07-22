@@ -105,20 +105,22 @@ apparatus and renew the party's symbolic authority over it.
 
 ## Working Papers
 
-**"Bridges Burnt: Uneven Urbanization and the Spatial Breakdown of Patronage Infrastructure in
-Malaysia."**
-[[Latest Draft]](https://drive.google.com/file/d/1LSWR34AtZDZgCARlDtg1fOjLBeo1yGLz/view?usp=sharing)
+**"Written on the Soil: Why Urbanization Broke Only Half of a Dominant-Party Regime."**
+[[Latest Draft]](https://drive.google.com/file/d/1bHiJ7tohZF6rbw45xPB26p1rUPKx9YZZ/view?usp=sharing)
 
-Patronage is a delivery technology that depends on geographic social closure: when communities
-are spatially compact and socially bounded, resources can be targeted and reciprocity enforced.
-Using settlement-level data from Malaysia, the paper shows that urbanization dissolved that closure
-settlement type by settlement type: Chinese New Villages near towns lost their social enclosure
-before Malay land schemes in the interior, dismantling the ruling coalition's patronage machine
-decades before its formal defeat in 2018.
+Whether urbanization threatens an electoral authoritarian regime depends on institutions the
+regime itself built: the state-made geography of ethnic groups, and the form of each group's
+distributive incorporation. A group incorporated through brokered exchange is tied to place,
+because benefits flow through settlements and their brokers, and cities dissolve both; a group
+held by an entitlement attached by law to membership loses nothing when its members move. Using
+ecological inference, a settlement-level event study, and survey evidence across 1974–2018 in
+Malaysia, the paper shows that Chinese support collapsed where cities grew, while the
+constitutionally entitled Malay base held until an intra-Malay elite rupture. Exclusion did not
+doom the regime; it decided which coalition could bring it down.
 
 **"Crisis from Within: Elite Defection, Intraparty Competition, and the Breakdown of
 Dominant Party Systems."**
-[[Latest Draft]](https://drive.google.com/file/d/1YUb8AMHCvt8KkgwZmD1_VZWZ3avjhOJM/view?usp=sharing)
+[[Latest Draft]](https://drive.google.com/file/d/1e_L3MxzmRGg1O8EreGp8mOw1YTR1Y2lb/view?usp=sharing)
 
 When and how do dominant party systems break? The cracks they do not recover from come from
 within, after years of electoral dominance, led by the party's most successful politicians rather
@@ -246,7 +248,7 @@ spatial and temporal diffusion of economic-grievance discourse.
     },
     {
       "@type": "ScholarlyArticle",
-      "headline": "Bridges Burnt: Uneven Urbanization and the Spatial Breakdown of Patronage Infrastructure in Malaysia",
+      "headline": "Written on the Soil: Why Urbanization Broke Only Half of a Dominant-Party Regime",
       "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
       "inLanguage": "en",
       "creativeWorkStatus": "Working paper"
