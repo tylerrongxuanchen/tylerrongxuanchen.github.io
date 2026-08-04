@@ -31,19 +31,20 @@ Hi, I'm Tyler! Welcome to my website.
 
 I am a Ph.D. candidate in Political Science and Scientific Computing at the
 University of Michigan, where I am also completing an M.A. in Statistics. What lies behind the
-change of political parties and party systems? Are party elites' internal fights and campaign
-strategies reshaping the political landscape, or do changing population structures produce social
-forces strong enough to push the change through on their own? I study both: the elite origins and
-the societal foundations of parties and party systems. On the elite side, I ask how much power
-party elites wield when they build campaign platforms united, and how much damage they inflict on
-the vehicles they built when factional interests pull them apart. On the societal side, I treat
-voter groups as the other set of players in this game: does the geographical distribution of
-racial and ethnic groups drive regional party fragmentation? Does the rise and fall of age cohorts
-contribute to the birth and death of parties?
+change of political parties and party systems? To what extent are party elites' internal fights
+and campaign strategies reshaping the political landscape, and to what extent do changing
+population structures produce social forces strong enough to push the change through on their own?
+I study both the elite origins and the societal foundations of parties and party systems. On the
+elite side, I ask how much power party elites wield when they build united campaign platforms, and
+how much damage they inflict on the vehicles they built when factional interests pull them apart.
+On the societal side, I treat voter groups as the other set of players in this game: how far does
+the geographical distribution of racial and ethnic groups drive regional party fragmentation, and
+what part does the rise and fall of age cohorts play in the birth and death of parties?
 
-I also treat my substantive interest as a methodological question: answering either side requires
-recovering how groups actually vote from aggregate election results and censuses, and I build the
-ecological-inference tools that do so. My approach is multi-method by necessity rather than taste.
+I also treat my substantive interest as a methodological question: answering any of these
+questions requires recovering how groups actually vote from aggregate election results and
+censuses, and I build the ecological-inference tools that do so. My approach is multi-method by
+necessity.
 I join formal models to archives, candidate-level career panels to multi-sited fieldwork, and
 geocoded election and census panels to hierarchical Bayesian estimation, reading my cases in their
 own languages: Chinese, Malay, and Indonesian.
@@ -63,7 +64,7 @@ New York City's three Chinatowns.
 My research appears in the *Journal of East Asian Studies* and, with Congcong Fu, in the two
 leading Chinese-language journals of Southeast Asian studies; three further papers are under
 review. Party systems stand on moving ground: I study what happens when the ground shifts, and I
-build the instruments to see it.
+build the instruments to measure it.
 
 My papers, datasets, and CV are linked above.
 
