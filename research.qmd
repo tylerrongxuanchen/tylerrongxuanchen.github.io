@@ -111,7 +111,7 @@ apparatus and renew the party's symbolic authority over it.
 ## Working Papers
 
 **"Written on the Soil: Why Urbanization Broke Only Half of a Dominant-Party Regime."**
-[[Latest Draft]](https://drive.google.com/file/d/1bHiJ7tohZF6rbw45xPB26p1rUPKx9YZZ/view?usp=sharing)
+[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7123979)
 
 Whether urbanization threatens an electoral authoritarian regime depends on institutions the
 regime itself built: the state-made geography of ethnic groups, and the form of each group's
@@ -256,7 +256,8 @@ spatial and temporal diffusion of economic-grievance discourse.
       "headline": "Written on the Soil: Why Urbanization Broke Only Half of a Dominant-Party Regime",
       "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
       "inLanguage": "en",
-      "creativeWorkStatus": "Working paper"
+      "creativeWorkStatus": "Working paper",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7123979"
     },
     {
       "@type": "ScholarlyArticle",

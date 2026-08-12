@@ -13,12 +13,17 @@ politics.
 | Course | Instructor | Term |
 |---|---|---|
 | POLSCI 373 · Data Science for International Studies | Christopher Fariss | Winter 2026 |
-| POLSCI 599 · Statistical Methods in Political Research I (graduate core) | Licheng Liu | Fall 2025 |
 | POLSCI 300 · Quantitative Empirical Methods | Robert Franzese | Fall 2025 |
 | POLSCI 327 · Election Law | Jowei Chen | Winter 2025 |
 | POLSCI 140 · Introduction to Comparative Politics | Pauline Jones | Fall 2024 |
 | POLSCI 389 · Human Rights | Ragnhild Nordås | Winter 2023 |
 | SOC 430 · World Population Dynamics | Barbara Anderson | Fall 2022 |
+
+## Tutor, University of Michigan
+
+| Course | Instructor | Term |
+|---|---|---|
+| POLSCI 599 · Statistical Methods in Political Research I (graduate core) | Licheng Liu | Fall 2025 |
 
 ## Teaching Assistant, ICPSR Summer Program
 
