@@ -1,36 +1,37 @@
 ---
 title: "Research"
-description: "Research on the elite origins and societal foundations of party systems — ecological inference, spatial models, and measurement-error corrections — across Malaysia, East and Southeast Asia, and the United States."
+description: "Research on dominant-party breakdown, the elite origins and societal foundations of party systems, and ecological-inference methods, across Malaysia, East and Southeast Asia, and the United States."
 toc: true
 toc-title: "On this page"
 ---
 
 What lies behind the change of political parties and party systems? I study both the elite
-origins and the societal foundations of parties and party systems: how much power party elites
-wield when they build united campaign platforms, how much damage they inflict on the vehicles
-they built when factional interests pull them apart, and how far the population structures
-beneath them, from the geographical distribution of racial and ethnic groups to the rise and fall
-of age cohorts, push the change through on their own. I also treat my substantive interest as a
-methodological question: answering any of these questions requires recovering how groups actually
-vote from aggregate election results and censuses, and I build the ecological-inference tools
-that do so.
+origins and the societal foundations of parties and party systems, and I build the
+ecological-inference tools that recover how groups actually vote from aggregate election results
+and censuses.
 
-My agenda runs in three lines: my dissertation and book project, "The Tower of Babel We Bury,"
-which asks when the demographic platforms parties campaign on break apart; the elite origins of
-party-system change; and its societal foundations. The work centers on Malaysia, where I trace
-how the settlement geography of Malay and Chinese communities built, and later unsettled, a
-long-dominant coalition, and it now reaches the United States: in Florida, I follow two decades
-of registered voters to watch Hispanic communities move and re-sort; in New York City, I am
-beginning fieldwork on an overseas-Chinese community that also figures in Malaysian politics. For
-Japan and Taiwan, I have built candidate-level career panels for the elite side and designed
-voter-side extensions that join district-level election returns to each country's survey record;
-Indonesia enters through the regime-side papers below.
+My dissertation, "Moving Ground: Three Papers on Elites, Voters, and the Breakdown of Dominant
+Party Systems," argues that dominant parties fall when two forces meet. Populations shift beneath
+the party, and defecting elites attach their new vehicles to the ground that has moved. Three
+papers below carry the argument. "Written on the Soil" shows the ground moving in Malaysia.
+"Crisis from Within" follows the elites who convert the movement into breakdown across Malaysia,
+Japan, and Taiwan. "What Race and Ethnicity Hide" builds BACH, the ecological-inference framework
+the first two require, and validates it against voter-file ground truth in the United States.
 
-Because these questions outrun existing tools, I also build new ones: ecological inference that
-recovers group behavior from aggregate returns, spatial models for electorates whose boundaries
-move, and corrections for measurement error in demographic panels. The flagship is BACH, a
-simulation-based ecological-inference estimator that recovers subgroup voting behavior where
-survey nonresponse, partisan polarization, and cross-cutting cleavages defeat conventional tools.
+The plan is for the dissertation to grow into a book, "The Tower of Babel We Bury: Geography,
+Group-Making, and the Communal Foundations of Party Systems." The dissertation takes the groups
+as given and shows how their movement breaks parties. The book asks where the groups came from,
+how parties bury the differences inside them, and what happens when buried difference resurfaces.
+It develops the argument across Malaysia, Taiwan, and the United States, with fieldwork running
+from the Malay neighborhoods of Kuala Lumpur to New York City's three Chinatowns. "Legible
+Domains," under review below, carries the book's colonial-origins material.
+
+Because these questions outrun existing tools, I also build new ones. I work on ecological
+inference that recovers group behavior from aggregate returns, spatial models for electorates
+whose boundaries move, and corrections for measurement error in demographic panels. The flagship
+is BACH, a simulation-based ecological-inference estimator that recovers subgroup voting behavior
+where survey nonresponse, partisan polarization, and cross-cutting cleavages defeat conventional
+tools.
 
 ## Peer-Reviewed Publications
 
@@ -55,8 +56,8 @@ Parties: Based on a Social Cleavage Structure Theory Perspective"** (with Congco
 After Malaysia's 2018 general election, five Malay-dominant parties held federal seats from
 Peninsular Malaysia alone, all tracing back to successive splits from UMNO. Drawing on social
 cleavage structure theory, the article argues that the fragmentation of Malay-dominant parties
-is the joint product of elite contradictions within the political society and shifting cleavage
-structures within the civil society. When intra-elite conflicts cannot be reconciled, or when a
+is the joint product of elite contradictions within political society and shifting cleavage
+structures within civil society. When intra-elite conflicts cannot be reconciled, or when a
 new social cleavage emerges, a new party is born; its survival depends on whether it can anchor
 itself to an existing or newly formed cleavage.
 
@@ -90,20 +91,25 @@ mechanism, tested at two scales: a day-by-day reconstruction of the week of Soeh
 separates leader-removal from elite survival on the same two features. The leader falls; the elite
 survives.
 
-**"Colonial Institutionalization and Unborn Civil Society in Post-Colonial States: Malaysia and
-Indonesia in Comparative Perspective."**
+**"Legible Domains: Colonial Rule, Social Density, and the Forms of Communal Politics in Malaysia
+and Indonesia."**
+
+*Part of the book project, "The Tower of Babel We Bury."*
 
 Why do some communal institutions survive decades of hostile policy while comparable ones next
-door are extinguished? Through a comparative-historical analysis of Malaysia and Indonesia, the
-paper traces the divergence to colonial-era decisions: whether the colonial state chose to
-register, codify, or spatially contain civil-sphere domains. These decisions set the institutional
-terrain on which postcolonial communal politics still runs, even as independent governments
-pursued divergent strategies toward communal organization.
+door are extinguished? Comparing Malaysia and Indonesia through comparative-historical analysis,
+the paper argues that two parameters set the terrain. One is a community's social density. The
+other is whether the colonial state chose to register, codify, or spatially contain it. Malaysian
+Chinese society, above all its Chinese-language school system, was among the densest communal
+spheres under British Malaya yet among the least regulated, leaving the post-colonial state facing
+a community with the societal roots to push back. These colonial-era choices still shape where
+governments can and cannot break the communities that vote against them.
 
 **"Symbolic Power and the Functional Divide: Campaigns Across the Party-State Spectrum."**
 
-Across the party-state spectrum, recurrent mobilizational campaigns are the instrument by which
-a party keeps the state it built subordinate to political ends. Drawing on seven decades of the
+Regimes differ in how fully the ruling party absorbs the state it governs, a range the paper
+calls the party-state spectrum. Across that spectrum, recurrent mobilizational campaigns are the
+instrument by which a party keeps the state it built subordinate to political ends. Drawing on seven decades of the
 Chinese party press, firm-level event studies that estimate campaigns' economic impact, and daily
 social-media discourse, the paper documents campaigns' functional logic: they discipline the state
 apparatus and renew the party's symbolic authority over it.
@@ -113,7 +119,11 @@ apparatus and renew the party's symbolic authority over it.
 **"Written on the Soil: Why Urbanization Broke Only Half of a Dominant-Party Regime."**
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7123979)
 
-Whether urbanization threatens an electoral authoritarian regime depends on institutions the
+*The first paper of my dissertation, "Moving Ground."*
+
+Where "Myth and Measurement" shows that ethnicity, not urbanization, remains Malaysia's master
+cleavage, this paper shows how urbanization still mattered, working through the ethnic cleavage
+rather than against it. Whether urbanization threatens an electoral authoritarian regime depends on institutions the
 regime itself built: the state-made geography of ethnic groups, and the form of each group's
 distributive incorporation. A group incorporated through brokered exchange is tied to place,
 because benefits flow through settlements and their brokers, and cities dissolve both; a group
@@ -127,8 +137,10 @@ doom the regime; it decided which coalition could bring it down.
 Dominant Party Systems."**
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7123960)
 
+*The second paper of my dissertation, "Moving Ground."*
+
 When and how do dominant party systems break? The cracks they do not recover from come from
-within, after years of electoral dominance, led by the party's most successful politicians rather
+within, after years of electoral dominance, opened by the party's most successful politicians rather
 than its marginal ones. Across 4,638 candidate-elections in Malaysia's UMNO (1959–2018), Japan's
 LDP (1958–1993), and Taiwan's KMT (1986–2001), a monopoly over office forces losing elites to choose
 between marginalization and exit, producing *bloc exits*, when cohesive factions leave together
@@ -143,10 +155,12 @@ Survey Nonresponse."**
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610738)
 [[Poster at PolMeth 2026]](assets/papers/Chen_BACH_PolMeth_2026_Poster.pdf)
 
+*The third paper of my dissertation, "Moving Ground."*
+
 A simulation-based ecological-inference framework that recovers subgroup voting behavior from
 aggregate election returns under the three conditions that defeat existing tools simultaneously:
 partisan polarization, cross-cutting cleavages, and survey nonresponse. The framework is validated
-through large-scale simulation experiments and benchmarked against statewide voter-file ground
+through large-scale simulation experiments and benchmarked against Florida voter-file ground
 truth that reveals individual-level vote choice. Substantively, national origin rather than
 education organizes Hispanic vote choice, a within-race cleavage that conventional race-level
 ecological estimators collapse.
@@ -171,7 +185,7 @@ and keeps the noise, and the effect it loses does not simply attenuate; it migra
 intercepts, masquerading as stable "unit characteristics." Larger samples make this worse, tightening
 confidence intervals around the wrong value and driving the Hausman test toward the most biased
 specification. The paper proves the result, establishes a scope condition (unit effects worsen
-attenuation only when the signal is more persistent than the error) and supplies a
+attenuation only when the signal is more persistent than the error), and supplies a
 diagnose–correct–redesign protocol validated on three datasets.
 
 **"Plant Closures and Trump-Related Twitter Discussion: A Spatial-Temporal Description"**
@@ -180,8 +194,21 @@ diagnose–correct–redesign protocol validated on three datasets.
 
 How do local economic shocks shape online political extremism? Using a national geocoded tweet
 corpus matched to plant-closure events across the United States, the paper traces how local
-plant-closing shocks shaped Trump-related and extremist engagement on social media, mapping the
+plant-closure shocks shaped Trump-related and extremist engagement on social media, mapping the
 spatial and temporal diffusion of economic-grievance discourse.
+
+## Work in Progress
+
+**"Theorizing Party-State Spectrum: From U.S. Southern Enclaves to China"** (with Mary Gallagher).
+
+The project takes the party-state spectrum from "Symbolic Power and the Functional Divide" and
+develops it into a general comparative framework.
+
+**"Three Clocks of the Aging Electorate: Period, Cohort, and the Misread Stability of the Senior
+Bloc in Japan and South Korea."**
+
+The study separates the period, cohort, and life-cycle clocks behind the apparent stability of
+senior voting blocs.
 
 ```{=html}
 <script type="application/ld+json">
@@ -239,7 +266,7 @@ spatial and temporal diffusion of economic-grievance discourse.
     },
     {
       "@type": "ScholarlyArticle",
-      "headline": "Colonial Institutionalization and Unborn Civil Society in Post-Colonial States: Malaysia and Indonesia in Comparative Perspective",
+      "headline": "Legible Domains: Colonial Rule, Social Density, and the Forms of Communal Politics in Malaysia and Indonesia",
       "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
       "inLanguage": "en",
       "creativeWorkStatus": "Under review"
