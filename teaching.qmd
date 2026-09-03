@@ -23,6 +23,7 @@ politics.
 
 | Course | Instructor | Term |
 |---|---|---|
+| POLSCI 599 · Applied Statistical Methods for Political and Social Science Research (graduate core) | Tyler Simko | Fall 2026 |
 | POLSCI 599 · Statistical Methods in Political Research I (graduate core) | Licheng Liu | Fall 2025 |
 
 ## Teaching Assistant, ICPSR Summer Program

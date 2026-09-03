@@ -22,7 +22,7 @@ Career-trajectory panels for every dominant-party candidate in three regimes: th
 National Organisation (UMNO) in Malaysia (1959–2022), the Liberal Democratic Party (LDP) in Japan
 (1947–2014), and the Kuomintang (KMT) in Taiwan (1986–2024), assembled from primary records in
 three languages with documented codebooks. Public release planned alongside the associated paper,
-"Crisis from Within."
+"Dancing with Hands Tied."
 
 **Geocoded Settlement Layers for Peninsular Malaysia.**
 Geocoded layers of Emergency-era Chinese New Villages and Federal Land Development Authority
@@ -61,7 +61,7 @@ associated papers.
       "description": "Career-trajectory panels for every dominant-party candidate in three regimes: UMNO in Malaysia (1959–2022), the LDP in Japan (1947–2014), and the KMT in Taiwan (1986–2024), assembled from primary records in three languages with documented codebooks.",
       "creator": { "@id": "https://tylerrongxuanchen.github.io/#person" },
       "spatialCoverage": ["Malaysia", "Japan", "Taiwan"],
-      "creativeWorkStatus": "In preparation; public release planned alongside the paper \"Crisis from Within\""
+      "creativeWorkStatus": "In preparation; public release planned alongside the paper \"Dancing with Hands Tied\""
     },
     {
       "@type": "Dataset",
