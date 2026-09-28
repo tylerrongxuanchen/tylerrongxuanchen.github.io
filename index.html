@@ -44,7 +44,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d2f0d26022bec303aa49dd63ca8380ec.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-eb3398a969c395e9f1d184f78f2f8f6f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -177,6 +180,40 @@ ul.task-list li input[type="checkbox"] {
   </a>
 </div>
       <div class="about-contents"><main class="content" id="quarto-document-content">
+<div class="policy-figs">
+<div class="policy-fig">
+<p><a href="assets/fig_urbanization.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1;" data-gallery="policy-figs"><img src="assets/fig_urbanization.jpg" class="img-fluid" alt="Map of two Malaysian settlement regions, Kinta Valley and the Jengka Triangle, showing built surface in 1975 and added by 2020, with settlements colored by urbanization trajectory."></a></p>
+<p><strong>Figure 1.</strong> Urbanization around Chinese New Villages (Kinta Valley) and FELDA settlements (Jengka Triangle), Malaysia, 1975 to 2020.</p>
+</div>
+<div class="policy-fig">
+<p><a href="assets/fig_census_exposure.png" class="lightbox" data-glightbox="description: .lightbox-desc-2;" data-gallery="policy-figs"><img src="assets/fig_census_exposure.png" class="img-fluid" alt="Panel A shows the share of residents in the typical member's census tract who would go uncounted, by race and origin, parentage, tract income, and age. Panel B maps places by number of residents and uncounted share."></a></p>
+<p><strong>Figure 2.</strong> Who would go uncounted under the proposed census rule, by group (A) and by place (B).</p>
+</div>
+</div>
+<script>
+// On wide screens, move the figures into a column under the photo.
+document.addEventListener("DOMContentLoaded", function () {
+  var figs = document.querySelector(".policy-figs");
+  var img = document.querySelector(".quarto-about-solana .about-entity > img.about-image");
+  if (!figs || !img) return;
+  var home = document.createComment("policy-figs");
+  figs.parentNode.insertBefore(home, figs);
+  var col = document.createElement("div");
+  col.className = "about-photo-col";
+  var mq = window.matchMedia("(min-width: 992px)");
+  function place() {
+    if (mq.matches) {
+      if (!col.parentNode) { img.parentNode.insertBefore(col, img); col.appendChild(img); }
+      col.appendChild(figs);
+    } else {
+      if (col.parentNode) { col.parentNode.insertBefore(img, col); col.remove(); }
+      home.parentNode.insertBefore(figs, home.nextSibling);
+    }
+  }
+  place();
+  mq.addEventListener("change", place);
+});
+</script>
 <div class="lead">
 <p>Hi, I’m Tyler! Welcome to my website.</p>
 </div>
@@ -237,6 +274,14 @@ ul.task-list li input[type="checkbox"] {
 </script>
 
 
+<div class="hidden" aria-hidden="true">
+<div class="glightbox-desc lightbox-desc-1">
+<p>Urbanization around Chinese New Villages (Kinta Valley) and FELDA settlements (Jengka Triangle), Malaysia. Built surface from GHS-BUILT-S, 1975 and 2020.</p>
+</div>
+<div class="glightbox-desc lightbox-desc-2">
+<p>Who would go uncounted under the proposed census rule. (A) By group. (B) By place.</p>
+</div>
+</div>
 </main></div>
     </div>
     <img src="assets/profile.jpg" class="about-image
@@ -656,6 +701,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
