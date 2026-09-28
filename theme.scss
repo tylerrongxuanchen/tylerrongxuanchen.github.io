@@ -47,6 +47,51 @@ h1, h2, h3 {
   color: $blue-um;
 }
 
+// landing page figures: column widths follow the images' aspect ratios
+// (2000x1546 and 1430x1363) so both render at the same height
+.policy-figs {
+  display: grid;
+  grid-template-columns: 1.294fr 1.049fr;
+  gap: 1.25rem;
+  align-items: start;
+  margin: 1rem 0 2rem;
+}
+
+.policy-fig {
+  min-width: 0;
+  font-size: 0.85rem;
+  color: #5a6570;
+  line-height: 1.4;
+
+  p { margin: 0; }
+  p:first-child { line-height: 0; }
+  p + p { margin-top: 0.5rem; }
+  img { width: 100%; height: auto; display: block; border: 1px solid #e8e8e8; }
+  strong { color: $blue-um; }
+}
+
+@media (max-width: 767.98px) {
+  .policy-figs {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+
+// desktop: photo and figures share one right-hand column. The 16em must
+// match `image-width` in index.qmd so the figures line up with the photo.
+.about-photo-col {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+
+  .policy-figs {
+    grid-template-columns: 1fr;
+    width: 16em;
+    margin: 1.25rem 0 0;
+    gap: 1.25rem;
+  }
+}
+
 // left-align the about page on mobile (Quarto solana centers it by default)
 @media (max-width: 991.98px) {
   div.quarto-about-solana .about-entity {

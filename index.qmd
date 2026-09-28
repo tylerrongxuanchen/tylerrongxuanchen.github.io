@@ -3,6 +3,9 @@ title: "Tyler Rongxuan Chen"
 subtitle: "Ph.D. Candidate in Political Science & Scientific Computing, University of Michigan"
 description: "Tyler Rongxuan Chen is a Ph.D. candidate at the University of Michigan studying the elite origins and the societal foundations of political parties and party systems across Malaysia, East and Southeast Asia, and the United States, and building the ecological-inference tools the questions require."
 image: assets/profile.jpg
+format:
+  html:
+    lightbox: true
 about:
   template: solana
   image-shape: rounded
@@ -24,6 +27,49 @@ about:
       text: Department Profile
       href: "https://prod.lsa.umich.edu/polisci/people/graduate-students/tyler-chen.html"
 ---
+
+::: {.policy-figs}
+
+::: {.policy-fig}
+![](assets/fig_urbanization.jpg){fig-alt="Map of two Malaysian settlement regions, Kinta Valley and the Jengka Triangle, showing built surface in 1975 and added by 2020, with settlements colored by urbanization trajectory." group="policy-figs" description="Urbanization around Chinese New Villages (Kinta Valley) and FELDA settlements (Jengka Triangle), Malaysia. Built surface from GHS-BUILT-S, 1975 and 2020."}
+
+**Figure 1.** Urbanization around Chinese New Villages (Kinta Valley) and FELDA settlements (Jengka Triangle), Malaysia, 1975 to 2020.
+:::
+
+::: {.policy-fig}
+![](assets/fig_census_exposure.png){fig-alt="Panel A shows the share of residents in the typical member's census tract who would go uncounted, by race and origin, parentage, tract income, and age. Panel B maps places by number of residents and uncounted share." group="policy-figs" description="Who would go uncounted under the proposed census rule. (A) By group. (B) By place."}
+
+**Figure 2.** Who would go uncounted under the proposed census rule, by group (A) and by place (B).
+:::
+
+:::
+
+```{=html}
+<script>
+// On wide screens, move the figures into a column under the photo.
+document.addEventListener("DOMContentLoaded", function () {
+  var figs = document.querySelector(".policy-figs");
+  var img = document.querySelector(".quarto-about-solana .about-entity > img.about-image");
+  if (!figs || !img) return;
+  var home = document.createComment("policy-figs");
+  figs.parentNode.insertBefore(home, figs);
+  var col = document.createElement("div");
+  col.className = "about-photo-col";
+  var mq = window.matchMedia("(min-width: 992px)");
+  function place() {
+    if (mq.matches) {
+      if (!col.parentNode) { img.parentNode.insertBefore(col, img); col.appendChild(img); }
+      col.appendChild(figs);
+    } else {
+      if (col.parentNode) { col.parentNode.insertBefore(img, col); col.remove(); }
+      home.parentNode.insertBefore(figs, home.nextSibling);
+    }
+  }
+  place();
+  mq.addEventListener("change", place);
+});
+</script>
+```
 
 ::: {.lead}
 Hi, I'm Tyler! Welcome to my website.
