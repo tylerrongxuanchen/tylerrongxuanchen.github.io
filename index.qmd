@@ -81,7 +81,7 @@ relationship between political parties and the populations beneath them. Party s
 social groups, and I ask what happens when the groups move. My work combines comparative
 politics, with a focus on dominant parties and communal politics in Southeast and East Asia, and
 political methodology, with a focus on ecological inference. I read my cases in Chinese, Malay,
-and Indonesian.
+Indonesian, and Japanese.
 
 My dissertation, "Moving Ground: Three Papers on Elites, Voters, and the Breakdown of Dominant
 Party Systems," asks how parties that dominated their countries' politics for decades lose the
@@ -149,7 +149,7 @@ with the [Humane Society of Huron Valley](https://www.hshv.org/).
     "Southeast Asian politics",
     "East Asian politics"
   ],
-  "knowsLanguage": ["English", "Chinese", "Malay", "Indonesian"],
+  "knowsLanguage": ["English", "Chinese", "Malay", "Indonesian", "Japanese"],
   "identifier": {
     "@type": "PropertyValue",
     "propertyID": "ORCID",
