@@ -117,7 +117,7 @@ apparatus and renew the party's symbolic authority over it.
 ## Working Papers
 
 **"Written on the Soil: Why Urbanization Broke Only Half of an Electoral Authoritarian Regime."**
-[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7123979)
+*Under major revision.*
 
 *The first paper of my dissertation, "Moving Ground."*
 
@@ -290,8 +290,7 @@ senior voting blocs.
       "headline": "Written on the Soil: Why Urbanization Broke Only Half of an Electoral Authoritarian Regime",
       "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
       "inLanguage": "en",
-      "creativeWorkStatus": "Working paper",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7123979"
+      "creativeWorkStatus": "Working paper"
     },
     {
       "@type": "ScholarlyArticle",
