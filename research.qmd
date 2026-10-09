@@ -13,7 +13,9 @@ and censuses.
 My dissertation, "Moving Ground: Three Papers on Elites, Voters, and the Breakdown of Dominant
 Party Systems," argues that dominant parties fall when two forces meet. Populations shift beneath
 the party, and defecting elites attach their new vehicles to the ground that has moved. Three
-papers carry the argument. The first shows the ground moving in Malaysia.
+papers below carry the argument. "Choosing Voters" shows how competitive authoritarian regimes can
+combine population policy and categorical redistricting to build electoral districts that can
+sustain their rule through multiple elections.
 "Dancing with Hands Tied" follows the elites who convert the movement into breakdown across
 Malaysia, Japan, and Taiwan. "What Race and Ethnicity Hide" builds BACH, the ecological-inference framework
 the first two require, and validates it against voter-file ground truth in the United States.
@@ -191,6 +193,11 @@ spatial and temporal diffusion of economic-grievance discourse.
 
 **"Choosing Voters: Population Policy, Categorical Redistricting, and the Building of a
 Competitive Authoritarian Regime."**
+
+*The first paper of my dissertation, "Moving Ground."*
+
+The paper shows how competitive authoritarian regimes can combine population policy and categorical
+redistricting to build electoral districts that can sustain their rule through multiple elections.
 
 **"Theorizing Party-State Spectrum: From U.S. Southern Enclaves to China"** (with Mary Gallagher).
 

@@ -86,14 +86,14 @@ Indonesian, and Japanese.
 My dissertation, "Moving Ground: Three Papers on Elites, Voters, and the Breakdown of Dominant
 Party Systems," asks how parties that dominated their countries' politics for decades lose the
 ability to dominate. Breakdown, I argue, takes two forces meeting. Populations shift beneath the
-party, and defecting elites attach their new vehicles to the ground that has moved. One paper
-shows the ground moving in Malaysia, where urbanization dissolved the brokered ties binding
-Chinese voters to the ruling coalition while the constitutionally entitled Malay base held. A
-second follows 4,638 candidate-elections across Malaysia's UMNO, Japan's LDP, and Taiwan's KMT to
-show that defection ends dominance only when a breakaway party captures a social cleavage the
-parent cannot absorb. A third builds BACH, a simulation-based ecological-inference framework that
-recovers how each demographic subgroup votes from aggregate election returns, and finds that
-national origin rather than education organizes Hispanic vote choice in Florida.
+party, and defecting elites attach their new vehicles to the ground that has moved. The first
+paper *Choosing Voters* shows how competitive authoritarian regimes can combine population policy
+and categorical redistricting to build electoral districts that can sustain their rule through
+multiple elections. The second paper *Dancing with Hands Tied* follows 4,638 candidate-elections
+across Malaysia's UMNO, Japan's LDP, and Taiwan's KMT to show that defection ends dominance only
+when a breakaway party captures a social cleavage the parent cannot absorb. The third paper builds
+BACH, a simulation-based ecological-inference framework that recovers how each demographic
+subgroup votes from aggregate election returns.
 
 The plan is for the dissertation to grow into a book, "The Tower of Babel We Bury." The
 dissertation takes the groups as given and shows how their movement breaks parties. The book asks
