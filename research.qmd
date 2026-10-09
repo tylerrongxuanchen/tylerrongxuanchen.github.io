@@ -1,40 +1,8 @@
 ---
 title: "Research"
-description: "Research on dominant-party breakdown, the elite origins and societal foundations of party systems, and ecological-inference methods, across Malaysia, East and Southeast Asia, and the United States."
 toc: true
 toc-title: "On this page"
 ---
-
-What lies behind the change of political parties and party systems? I study both the elite
-origins and the societal foundations of parties and party systems, and I build the
-ecological-inference tools that recover how groups actually vote from aggregate election results
-and censuses.
-
-My dissertation, "Moving Ground: Three Papers on Elites, Voters, and the Breakdown of Dominant
-Party Systems," argues that dominant parties fall when two forces meet. Populations shift beneath
-the party, and defecting elites attach their new vehicles to the ground that has moved. Three
-papers below carry the argument. "Choosing Voters" shows how competitive authoritarian regimes can
-combine population policy and categorical redistricting to build electoral districts that can
-sustain their rule through multiple elections.
-"Dancing with Hands Tied" follows the elites who convert the movement into breakdown across
-Malaysia, Japan, and Taiwan. "What Race and Ethnicity Hide" builds BACH, the ecological-inference framework
-the first two require, and validates it against voter-file ground truth in the United States.
-
-The plan is for the dissertation to grow into a book, "The Tower of Babel We Bury: Geography,
-Group-Making, and the Communal Foundations of Party Systems." The dissertation takes the groups
-as given and shows how their movement breaks parties. The book asks where the groups came from,
-how parties bury the differences inside them, and what happens when buried difference resurfaces.
-It develops the argument across Malaysia, Taiwan, and the United States, with fieldwork running
-from the Malay neighborhoods of Kuala Lumpur to New York City's three Chinatowns. "The
-Ramification of (Not) Being Governed," under review below, carries the book's colonial-origins
-material.
-
-Because these questions outrun existing tools, I also build new ones. I work on ecological
-inference that recovers group behavior from aggregate returns, spatial models for electorates
-whose boundaries move, and corrections for measurement error in demographic panels. The flagship
-is BACH, a simulation-based ecological-inference estimator that recovers subgroup voting behavior
-where survey nonresponse, partisan polarization, and cross-cutting cleavages defeat conventional
-tools.
 
 ## Peer-Reviewed Publications
 
