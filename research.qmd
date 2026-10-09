@@ -13,7 +13,7 @@ and censuses.
 My dissertation, "Moving Ground: Three Papers on Elites, Voters, and the Breakdown of Dominant
 Party Systems," argues that dominant parties fall when two forces meet. Populations shift beneath
 the party, and defecting elites attach their new vehicles to the ground that has moved. Three
-papers below carry the argument. "Written on the Soil" shows the ground moving in Malaysia.
+papers carry the argument. The first shows the ground moving in Malaysia.
 "Dancing with Hands Tied" follows the elites who convert the movement into breakdown across
 Malaysia, Japan, and Taiwan. "What Race and Ethnicity Hide" builds BACH, the ecological-inference framework
 the first two require, and validates it against voter-file ground truth in the United States.
@@ -23,8 +23,9 @@ Group-Making, and the Communal Foundations of Party Systems." The dissertation t
 as given and shows how their movement breaks parties. The book asks where the groups came from,
 how parties bury the differences inside them, and what happens when buried difference resurfaces.
 It develops the argument across Malaysia, Taiwan, and the United States, with fieldwork running
-from the Malay neighborhoods of Kuala Lumpur to New York City's three Chinatowns. "Legible
-Domains," under review below, carries the book's colonial-origins material.
+from the Malay neighborhoods of Kuala Lumpur to New York City's three Chinatowns. "The
+Ramification of (Not) Being Governed," under review below, carries the book's colonial-origins
+material.
 
 Because these questions outrun existing tools, I also build new ones. I work on ecological
 inference that recovers group behavior from aggregate returns, spatial models for electorates
@@ -91,8 +92,8 @@ mechanism, tested at two scales: a day-by-day reconstruction of the week of Soeh
 separates leader-removal from elite survival on the same two features. The leader falls; the elite
 survives.
 
-**"Legible Domains: Colonial Rule, Social Density, and the Forms of Communal Politics in Malaysia
-and Indonesia."**
+**"The Ramification of (Not) Being Governed: Colonial Rule, Social Density, and the Organization
+of Ethnic Politics in Post-Colonial Malaysia and Indonesia."**
 
 *Part of the book project, "The Tower of Babel We Bury."*
 
@@ -115,24 +116,6 @@ social-media discourse, the paper documents campaigns' functional logic: they di
 apparatus and renew the party's symbolic authority over it.
 
 ## Working Papers
-
-**"Written on the Soil: Why Urbanization Broke Only Half of an Electoral Authoritarian Regime."**
-*Under major revision.*
-
-*The first paper of my dissertation, "Moving Ground."*
-
-Where "Myth and Measurement" shows that ethnicity, not urbanization, remains Malaysia's master
-cleavage, this paper shows how urbanization still mattered, working through the ethnic cleavage
-rather than against it. Urbanization is expected to dissolve the clientelistic and ethnic ties that
-sustain electoral authoritarian regimes, yet urban machines rebuild both wherever poor or segregated
-neighborhoods give them ground. The paper identifies a second channel through which regimes hold
-urban voters. Benefits attached by law to group membership, what it calls ascriptive entitlements,
-follow their holders into the city when broker-based clientelistic-ethnic ties anchored to locations
-do not. Malaysia's constitution gave the Malays entitlements that traveled with them while binding
-the excluded Chinese only through place-based clientelistic-ethnic channels. Combining ecological
-inference, an ethnic settlement-level event study, and survey data across 1974–2018, the paper shows
-that urbanization dissolved only the ties that were written on the soil. The half of the regime that
-hinged on ascriptive entitlements helped it survive long past its due.
 
 **"Dancing with Hands Tied: Elite Defection, Social Constraints, and the Breakdown of
 Dominant-Party Systems."**
@@ -184,7 +167,7 @@ offering a closed-form alternative to simulation-based approaches.
 
 **"What the Slope Loses, the Intercepts Gain: Measurement Error and Misattributed Effects in
 Fixed- and Random-Effects Models"** (with Robert Franzese).
-[[Latest Draft]](https://drive.google.com/file/d/18TgJOSSvd_q9FO4o65y74-4WZ_5UmAXb/view?usp=sharing)
+*Under revision.*
 
 Fixed- and random-effects models compare each unit to itself over time. When a treatment moves
 slowly but its measure carries fast-moving error, the within transformation strips out the signal
@@ -197,7 +180,7 @@ diagnose–correct–redesign protocol validated on three datasets.
 
 **"Plant Closures and Trump-Related Twitter Discussion: A Spatial-Temporal Description"**
 (with Robert Franzese).
-[[Latest Draft]](https://drive.google.com/file/d/1tIvJXYkguEhZdFrNcZL54ObPlFXysP4a/view?usp=sharing)
+*Under revision.*
 
 How do local economic shocks shape online political extremism? Using a national geocoded tweet
 corpus matched to plant-closure events across the United States, the paper traces how local
@@ -205,6 +188,9 @@ plant-closure shocks shaped Trump-related and extremist engagement on social med
 spatial and temporal diffusion of economic-grievance discourse.
 
 ## Work in Progress
+
+**"Choosing Voters: Population Policy, Categorical Redistricting, and the Building of a
+Competitive Authoritarian Regime."**
 
 **"Theorizing Party-State Spectrum: From U.S. Southern Enclaves to China"** (with Mary Gallagher).
 
@@ -273,7 +259,7 @@ senior voting blocs.
     },
     {
       "@type": "ScholarlyArticle",
-      "headline": "Legible Domains: Colonial Rule, Social Density, and the Forms of Communal Politics in Malaysia and Indonesia",
+      "headline": "The Ramification of (Not) Being Governed: Colonial Rule, Social Density, and the Organization of Ethnic Politics in Post-Colonial Malaysia and Indonesia",
       "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
       "inLanguage": "en",
       "creativeWorkStatus": "Under review"
@@ -284,13 +270,6 @@ senior voting blocs.
       "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
       "inLanguage": "en",
       "creativeWorkStatus": "Under review"
-    },
-    {
-      "@type": "ScholarlyArticle",
-      "headline": "Written on the Soil: Why Urbanization Broke Only Half of an Electoral Authoritarian Regime",
-      "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
-      "inLanguage": "en",
-      "creativeWorkStatus": "Working paper"
     },
     {
       "@type": "ScholarlyArticle",
