@@ -81,6 +81,7 @@ foundation.
 
 **"The Front Page and the Back Room: Demand Narrowing, Elite Coordination, and the Survival of
 Authoritarian Elites."**
+Under review at *American Political Science Review*.
 
 When an authoritarian leader faces a crisis they may not survive, how does a divided elite
 coordinate on abandoning them before the moment passes? The paper argues that two features of the
@@ -96,19 +97,22 @@ survives.
 
 **"The Ramification of (Not) Being Governed: Colonial Rule, Social Density, and the Organization
 of Ethnic Politics in Post-Colonial Malaysia and Indonesia."**
+Under review at *International Organization*.
 
-*Part of the book project, "The Tower of Babel We Bury."*
-
-Why do some communal institutions survive decades of hostile policy while comparable ones next
-door are extinguished? Comparing Malaysia and Indonesia through comparative-historical analysis,
-the paper argues that two parameters set the terrain. One is a community's social density. The
-other is whether the colonial state chose to register, codify, or spatially contain it. Malaysian
-Chinese society, above all its Chinese-language school system, was among the densest communal
-spheres under British Malaya yet among the least regulated, leaving the post-colonial state facing
-a community with the societal roots to push back. These colonial-era choices still shape where
-governments can and cannot break the communities that vote against them.
+Research on colonial governance often argues that colonial states shaped post-colonial ethnic
+politics, but gives insufficient attention to ethnic groups' own agency. Extending research on
+colonial legacies, I add a group-side variable, the baseline social density of an ethnic
+institution, and model its interaction with the colonial state's decision to govern that
+institution or pass it over. I argue that the type of ethnic institutions that emerge, and how they
+interact with post-colonial states, depend on the interaction between how actively colonial states
+managed particular aspects of ethnic groups and how densely organized those groups were, which
+shaped how capable they were of resisting state intervention. Using controlled comparison and
+process tracing, I examine five ethnic institutions in Malaysia and Indonesia. I find that
+colonial-era interactions between state management and group organization can have enduring
+effects on post-colonial ethnic politics, even amid major political change.
 
 **"Symbolic Power and the Functional Divide: Campaigns Across the Party-State Spectrum."**
+Reject and invitation for resubmission at *American Journal of Sociology*.
 
 Regimes differ in how fully the ruling party absorbs the state it governs, a range the paper
 calls the party-state spectrum. Across that spectrum, recurrent mobilizational campaigns are the
