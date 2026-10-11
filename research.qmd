@@ -139,6 +139,9 @@ method-of-moments estimator that exploits higher-order moments of the cross-unit
 aggregate election outcomes to identify group voting behavior without individual-level data,
 offering a closed-form alternative to simulation-based approaches.
 
+**"Research Note: Who Counts in 2030? Changes of Representation Under the Proposed Census
+Exclusions."**
+
 **"What the Slope Loses, the Intercepts Gain: Measurement Error and Misattributed Effects in
 Fixed- and Random-Effects Models"** (with Robert Franzese).
 *Under revision.*
@@ -171,7 +174,11 @@ Competitive Authoritarian Regime."**
 The paper shows how competitive authoritarian regimes can combine population policy and categorical
 redistricting to build electoral districts that can sustain their rule through multiple elections.
 
-**"Theorizing Party-State Spectrum: From U.S. Southern Enclaves to China"** (with Mary Gallagher).
+**"Why the Campaign Came Back: Bureaucratization and the Return of Mobilizational Governance in
+China."**
+
+**"When Do Ruling Parties Campaign Against Their Own States? The Party-State Spectrum"** (with
+Mary Gallagher and Zhen Zhang).
 
 The project takes the party-state spectrum from "Symbolic Power and the Functional Divide" and
 develops it into a general comparative framework.
@@ -273,6 +280,13 @@ senior voting blocs.
       "inLanguage": "en",
       "creativeWorkStatus": "Working paper",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610778"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Research Note: Who Counts in 2030? Changes of Representation Under the Proposed Census Exclusions",
+      "author": { "@id": "https://tylerrongxuanchen.github.io/#person" },
+      "inLanguage": "en",
+      "creativeWorkStatus": "Working paper"
     },
     {
       "@type": "ScholarlyArticle",
