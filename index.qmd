@@ -42,6 +42,12 @@ about:
 **Figure 2.** Who would go uncounted under the proposed census rule, by group (A) and by place (B).
 :::
 
+::: {.policy-fig}
+![](assets/fig_erik_theda.jpg){fig-alt="Two black cats sit side by side on a windowsill with their backs to the camera, looking out at a pine tree." group="policy-figs" description="Erik and Theda at the window."}
+
+**Figure 3.** Erik and Theda at the window.
+:::
+
 :::
 
 ```{=html}
