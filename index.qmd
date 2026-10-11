@@ -80,11 +80,14 @@ University of Michigan, where I am also completing an M.A. in Statistics. I stud
 relationship between political parties and the populations beneath them. Party systems stand on
 social groups, and I ask what happens when the groups move. My work combines comparative
 politics, with a focus on dominant parties and communal politics in Southeast and East Asia, and
-political methodology, with a focus on ecological inference. I read my cases in Chinese, Malay,
-Indonesian, and Japanese.
+political methodology, with a focus on ecological inference and modeling of Time-Series
+Cross-Sectional (TSCS) data. I read my cases in Chinese, Malay, Indonesian, and Japanese. I am
+affiliated with the International Institute and the Center for Political Studies. I am also a
+2026–2027 graduate fellow at the Michigan Institute for Computational Discovery and Engineering
+(MICDE).
 
-My dissertation, "Moving Ground: Three Papers on Elites, Voters, and the Breakdown of Dominant
-Party Systems," asks how parties that dominated their countries' politics for decades lose the
+My dissertation, *Moving Ground: Three Papers on Elites, Voters, and the Breakdown of Dominant
+Party Systems*, asks how parties that dominated their countries' politics for decades lose the
 ability to dominate. Breakdown, I argue, takes two forces meeting. Populations shift beneath the
 party, and defecting elites attach their new vehicles to the ground that has moved. The first
 paper *Choosing Voters* shows how competitive authoritarian regimes can combine population policy
@@ -93,9 +96,13 @@ multiple elections. The second paper *Dancing with Hands Tied* follows 4,638 can
 across Malaysia's UMNO, Japan's LDP, and Taiwan's KMT to show that defection ends dominance only
 when a breakaway party captures a social cleavage the parent cannot absorb. The third paper builds
 BACH, a simulation-based ecological-inference framework that recovers how each demographic
-subgroup votes from aggregate election returns.
+subgroup votes from aggregate election returns. Some of my other work discusses party politics in
+democratic and non-democratic cases, including China. I have co-organized the [China Reading
+Group](https://sites.lsa.umich.edu/crg/), a Rackham-sponsored interdisciplinary workshop, since
+2023. I also co-organized the Interdisciplinary Workshop on Comparative Politics and was the
+president of the Graduate Association of Political Scientists from 2025 to 2026.
 
-The plan is for the dissertation to grow into a book, "The Tower of Babel We Bury." The
+The plan is for the dissertation to grow into a book, *The Tower of Babel We Bury*. The
 dissertation takes the groups as given and shows how their movement breaks parties. The book asks
 where the groups came from. Parties do not merely mobilize social groups. They make them, and
 campaigning on a made group means burying the differences inside it. The book follows buried
